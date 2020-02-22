@@ -25,8 +25,8 @@ const y = d3.scaleBand().rangeRound([0, height], 0.1)
 
 
 Promise.all([
-    d3.json('../../src/data/final.json'),
-    d3.json('../../src/data/formattedFinal.json')
+    d3.json('/src/data/final.json'),
+    d3.json('/src/data/formattedFinal.json')
 
 ]).then(function (files) {
 
