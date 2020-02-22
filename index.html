@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- Load D3 -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- Load jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+    </script>
+    <title>Colors</title>
+
+
+</head>
+
+<body>
+
+    <header>
+
+        <img src="assets/img/banner.png" class="banner">
+
+    </header>
+    <main>
+        <div class="topic-wrapper">
+            Color in Landscapes
+        </div>
+        <div class="content-wrapper">
+            <h2 class="intro">With 100+ paintings about landscapes in Metropolitan Museum of Art (MET) collection, I
+                explored the main color used in each painting to find the pattern of color use in landscape paintings.
+            </h2>
+            <div id="btn-group">
+                <button class="btn active" value="culture">Culture</button>
+                <button class="btn" value="season">Season</button>
+            </div>
+            <div id="bubble"></div>
+        </div>
+    </main>
+
+</body>
+<script src="assets/js/bubble.js"></script>
+<script>
+    let header = document.getElementById("btn-group");
+    let btns = header.getElementsByClassName("btn");
+    for (var i = 0; i < btns.length; i++) {
+        btns[i].addEventListener("click", function () {
+            var current = document.getElementsByClassName("active");
+            current[0].className = current[0].className.replace(" active", "");
+            this.className += " active";
+        });
+    }
+</script>
+
+</html>
