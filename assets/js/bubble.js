@@ -17,6 +17,7 @@ const svg = d3.select("#bubble")
     .attr("viewBox", `0 0 600, 400`)
     .attr("id", "svg-content-responsive")
 
+
 const bubbleChart = d3.select("#svg-content-responsive")
 
 const x = d3.scaleLinear()
@@ -24,36 +25,45 @@ const x = d3.scaleLinear()
 const y = d3.scaleBand().rangeRound([0, height], 0.1)
 
 
-Promise.all([
-    d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/src/data/formattedFinal.json')
+d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/src/data/formattedFinal.json', function (error, data) {
 
-]).then(function (files) {
-
-    const final = files[0];
+    const final = data;
 
     const defs = svg.append("defs");
 
-    x.domain([d3.min(final, function (d) {
+    // x.domain([d3.min(final, function (d) {
+    //         return d.date
+    //     }), d3.max(final, function (d) {
+    //         return d.date
+    //     })])
+    //     .range([0, width])
+    //     .nice();
+
+    x.domain(d3.extent(final, function (d) {
             return d.date
-        }), d3.max(final, function (d) {
-            return d.date
-        })])
+        }))
         .range([0, width])
-        .nice();
+        .nice()
 
-
-
-    const nestedCulture = d3.nest()
-        .key(function (d) {
-            return d.culture;
-        })
-        .entries(final);
-    console.log(nestedCulture)
-    y.domain(nestedCulture.map(function (d) {
-            return d.key
+    y.domain(final.map(function (d) {
+            return d.culture
         }))
         .range([height, 0])
 
+
+
+    var simulation = d3.forceSimulation(final)
+        .force("x", d3.forceX(function (d) {
+            console.log(x(d.date))
+            return x(d.date);
+        }).strength(10))
+        .force("y", d3.forceY(function (d) {
+            return y(d.culture - 35)
+        }))
+        .force("collide", d3.forceCollide(15))
+        .stop();
+
+    for (var i = 0; i < final.length; ++i) simulation.tick();
 
     const xAxis = d3.axisBottom(x)
         .tickSize(0)
@@ -63,11 +73,12 @@ Promise.all([
         .tickPadding(20);
 
 
-    bubbleChart.append("g")
+
+    svg.append("g")
         .attr("class", "xAxis")
         .attr("transform", `translate(${margin.left}, ${height + margin.top})`)
         .call(xAxis)
-    bubbleChart.append("g")
+    svg.append("g")
         .attr("class", "yAxis")
         .call(yAxis)
         .attr("transform", `translate(${margin.left},${margin.top})`)
@@ -88,7 +99,7 @@ Promise.all([
         .attr("preserveAspectRatio", "none")
         .attr("xmlns:xlinks", "http://www.w3.org/1999/xlink")
         .attr("xlink:href", function (d) {
-            return "../../src/img/" + d.objectID + ".jpg";
+            return d.objectImage;
         })
 
     bubbleChart.append("g")
@@ -96,19 +107,31 @@ Promise.all([
         .data(final)
         .enter()
         .append("circle")
-        .attr("cx", function (d, i) {
-            return x(d.date)
+        .attr("cx", function (d) {
+            return margin.left
         })
         .attr("cy", function (d) {
-            return y(d.culture)
+            return height / 2 + margin.top
         })
         .attr("r", 8)
         .attr("fill", function (d) {
             return d3.rgb(d.colorValue[0], d.colorValue[1], d.colorValue[2])
+            // return `url(#${d.objectID})`
+        })
+        .transition()
+        .duration(1000)
+        .attr("cx", function (d) {
+            return x(d.date);
+        })
+        .attr("cy", function (d) {
+            return y(d.culture);
         })
         .attr("stroke", "white")
         .style("stroke-width", ".5px")
         .attr("transform", `translate(${margin.left},${margin.top + 35})`)
+
+
+
 
 
     d3.selectAll(".domain").remove();
@@ -120,7 +143,11 @@ Promise.all([
             updateChart(selectedOption);
         })
 
+
+
+
     function updateChart(selected) {
+
         d3.selectAll("text").remove();
         d3.selectAll("circle").remove();
         const nested = d3.nest()
@@ -144,14 +171,15 @@ Promise.all([
         }))
 
 
-        bubbleChart.append("g")
+        svg.append("g")
             .attr("class", "xAxis")
             .attr("transform", `translate(${margin.left}, ${height + margin.top})`)
             .call(xAxis)
-        bubbleChart.append("g")
+        svg.append("g")
             .attr("class", "yAxis")
             .call(yAxis)
             .attr("transform", `translate(${margin.left},${margin.top})`)
+
 
         bubbleChart.append("g")
             .selectAll("dot")
@@ -159,25 +187,73 @@ Promise.all([
             .enter()
             .append("circle")
             .attr("cx", function (d, i) {
-                return x(d.date)
+                return margin.left
             })
             .attr("cy", function (d) {
-                return y(d[selected])
+                return height / 2 + margin.top
             })
             .attr("r", 8)
-            .style("fill", function (d) {
+            .attr("fill", function (d) {
                 return d3.rgb(d.colorValue[0], d.colorValue[1], d.colorValue[2])
+            })
+            .transition()
+            .duration(1000)
+            .attr("cx", function (d) {
+                return x(d.date);
+            })
+            .attr("cy", function (d) {
+                return y(d[selected]);
             })
             .attr("stroke", "white")
             .style("stroke-width", ".5px")
             .attr("transform", `translate(${margin.left},${margin.top + 35})`)
 
+        d3.selectAll("circle")
+            .on("mouseover", function (d) {
+                d3.select(this)
+                    .style('cursor', 'pointer')
+                    .attr("fill", function (d) {
+                        return `url(#${d.objectID})`
+                    })
+                    .attr("r", 30)
+                    .raise()
+            })
+
+        d3.selectAll("circle")
+            .on("mouseout", function (d) {
+                d3.select(this)
+                    .attr("fill", function (d) {
+                        return d3.rgb(d.colorValue[0], d.colorValue[1], d.colorValue[2])
+
+                    })
+                    .attr("r", 8)
+            })
+
         d3.selectAll(".domain").remove();
     }
 
+
+    d3.selectAll("circle")
+        .on("mouseover", function (d) {
+            d3.select(this)
+                .style('cursor', 'pointer')
+                .attr("fill", function (d) {
+                    return `url(#${d.objectID})`
+                })
+                .attr("r", 30)
+                .raise()
+        })
+
+    d3.selectAll("circle")
+        .on("mouseout", function (d) {
+            d3.select(this)
+                .attr("fill", function (d) {
+                    return d3.rgb(d.colorValue[0], d.colorValue[1], d.colorValue[2])
+
+                })
+                .attr("r", 8)
+        })
     bubbleChart.append("text")
         .text("A.D.")
         .attr("transform", `translate(${width + margin.left + 18}, ${height + margin.top + 10})`)
-}).catch(function (err) {
-    // handle error here
 })
