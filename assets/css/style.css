@@ -153,6 +153,7 @@ p {
     .intro {
         padding-left: 15vw;
         padding-right: 15vw;
+        font-size: 22px;
     }
 
     #bubble {
@@ -162,6 +163,15 @@ p {
 
     .btn-group {
         padding-left: 8vw;
+        
+    }
+    .filter {
+        font-size: 16px;
+        padding-left: 8vw;
+    }
+
+    .btn {
+        font-size: 16px;
     }
 }
 
@@ -178,6 +188,11 @@ p {
     }
 
     .btn-group {
+        padding-left: 10vw;
+    }
+
+    .filter {
+        font-size: 16px;
         padding-left: 10vw;
     }
 }
