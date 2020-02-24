@@ -65,6 +65,13 @@ p {
     font-size: 16px;
 }
 
+.filter {
+    font-size: 12px;
+    margin-left: 10vw;
+    margin-bottom: 0;
+    color: darkgray;
+}
+
 .intro {
     text-align: center;
     font-weight: 200;
@@ -77,7 +84,7 @@ p {
 
 
 .btn-group {
-    margin-top: 3em;
+    margin-top: 0.5em;
     margin-left: 10vw;
 }
 
