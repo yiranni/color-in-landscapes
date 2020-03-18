@@ -25,7 +25,7 @@ const x = d3.scaleLinear()
 const y = d3.scaleBand().rangeRound([0, height], 0.1)
 
 
-d3.json('/src/data/formattedFinal.json', function (error, data) {
+d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/master/src/data/formattedFinal.json', function (error, data) {
 
     const final = data;
     // console.log(data)
