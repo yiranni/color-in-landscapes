@@ -25,10 +25,10 @@ const x = d3.scaleLinear()
 const y = d3.scaleBand().rangeRound([0, height], 0.1)
 
 
-d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/src/data/formattedFinal.json', function (error, data) {
+d3.json('/src/data/formattedFinal.json', function (error, data) {
 
     const final = data;
-    console.log(data)
+    // console.log(data)
     let defaultData = final;
 
     const defs = svg.append("defs");
@@ -50,18 +50,12 @@ d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/
 
     const nestedCulture = d3.nest()
         .key(function (d) {
-            console.log(d.culture)
+            // console.log(d.culture)
             return d.culture;
         })
         .entries(defaultData);
 
     defaultData.forEach(d => d.ideally = y(d.culture) + ((height / nestedCulture.length) / 2))
-
-
-
-    // y.domain(d3.map(fullData, function (d) {
-    //     return d.pivot;
-    // }).keys().sort());
 
 
 
@@ -79,7 +73,7 @@ d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/
         .force("y", d3.forceY(function (d) {
             return (d.ideally)
         }))
-        .force("collide", d3.forceCollide(8).strength(2).iterations(2))
+        .force("collide", d3.forceCollide(9).strength(2).iterations(2))
         .stop()
 
     for (var i = 0; i < 120; i++) {
@@ -116,21 +110,30 @@ d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/
             return d.objectImage;
         })
 
-    bubbleChart.append("g")
+    const bubbles = bubbleChart.append("g")
         .selectAll("dot")
         .data(defaultData)
         .enter()
-        .append("circle")
+        .append('g')
+        .attr("transform", function (d) {
+            return `translate(${margin.left},${margin.top})`
+            // return `translate(${margin.left + d.x},${margin.top+d.y})`
+        })
+        .append("g")
+        .attr("class", "pies");
+
+
+    bubbles.append("circle")
+        .attr("r", 8)
         .attr("cx", function (d) {
             return margin.left
         })
         .attr("cy", function (d) {
             return height / 2 + margin.top
         })
-        .attr("r", 8)
         .attr("fill", function (d) {
-            return d3.rgb(d.colorValue[0], d.colorValue[1], d.colorValue[2])
-            // return `url(#${d.objectID})`
+            // console.log(d.colorValue)
+            return d.colorValue[0];
         })
         .transition()
         .duration(1000)
@@ -140,10 +143,10 @@ d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/
         .attr("cy", function (d) {
             return d.y;
         })
-        .attr("transform", `translate(${margin.left},${margin.top})`)
 
-
-
+    const tooltips = d3.select("body").append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0)
 
 
     d3.selectAll(".domain").remove();
@@ -151,7 +154,6 @@ d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/
     d3.selectAll("button.btn")
         .on("click", function (d) {
             let selectedOption = d3.select(this).property("value")
-            console.log(selectedOption);
             updateChart(selectedOption);
         })
 
@@ -160,7 +162,6 @@ d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/
 
     function updateChart(selected) {
         let newData = final;
-        // console.log(newData[0])
 
         d3.selectAll("text").remove();
         d3.selectAll("circle").remove();
@@ -187,7 +188,6 @@ d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/
 
         newData.forEach(d => d.thisideally = y(d[selected]) + ((height / nested.length) / 2));
 
-        console.log(newData[0])
 
         const thissimulation = d3.forceSimulation(newData)
             .force("x", d3.forceX(function (d) {
@@ -196,7 +196,7 @@ d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/
             .force("y", d3.forceY(function (d) {
                 return (d.thisideally)
             }))
-            .force("collide", d3.forceCollide(8).strength(1).iterations(2))
+            .force("collide", d3.forceCollide(9).strength(2).iterations(2))
             .stop()
         for (var i = 0; i < 120; i++) {
             thissimulation.tick()
@@ -224,7 +224,7 @@ d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/
             })
             .attr("r", 8)
             .attr("fill", function (d) {
-                return d3.rgb(d.colorValue[0], d.colorValue[1], d.colorValue[2])
+                return d.colorValue[0];
             })
             .transition()
             .duration(1000)
@@ -236,6 +236,14 @@ d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/
             })
             .attr("transform", `translate(${margin.left},${margin.top})`)
 
+
+
+            .attr("transform", `translate(${margin.left},${margin.top})`)
+        bubbleChart.append("text")
+            .text("A.D.")
+            .attr("transform", `translate(${width + margin.left + 18}, ${height + margin.top + 10})`)
+
+
         d3.selectAll("circle")
             .on("mouseover", function (d) {
                 d3.select(this)
@@ -244,17 +252,28 @@ d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/
                         return `url(#${d.objectID})`
                     })
                     .attr("r", 30)
-                    .raise()
+                    .raise();
+                tooltips.transition()
+                    .duration(300)
+                    .style("opacity", .9);
+                tooltips.html(`<b>Artist</b>: ${d.artistName} <br/> <b>Title</b>: ${d.title} <br/> <b>Year</b>: ${d.date} <br/> <b>Department</b>: ${d.department} `)
+                    .style("left", (d3.event.pageX - 40) + "px")
+                    .style("top", (d3.event.pageY - 80) + "px");
+
             })
 
         d3.selectAll("circle")
             .on("mouseout", function (d) {
                 d3.select(this)
                     .attr("fill", function (d) {
-                        return d3.rgb(d.colorValue[0], d.colorValue[1], d.colorValue[2])
+                        return d.colorValue[0];
 
                     })
                     .attr("r", 8)
+                tooltips.transition()
+                    .duration(300)
+                    .style("opacity", 0);
+
             })
 
         d3.selectAll(".domain").remove();
@@ -269,17 +288,29 @@ d3.json('https://raw.githubusercontent.com/yiranni/color-in-landscapes/gh-pages/
                     return `url(#${d.objectID})`
                 })
                 .attr("r", 30)
-                .raise()
+                .raise();
+            tooltips.transition()
+                .duration(300)
+                .style("opacity", .9);
+            tooltips.html(`<b>Artist</b>: ${d.artistName} <br/> <b>Title</b>: ${d.title} <br/> <b>Year</b>: ${d.date}<br/> <b>Department</b>: ${d.department}`)
+                .style("left", (d3.event.pageX - 40) + "px")
+                .style("top", (d3.event.pageY - 120) + "px");
+                
+
         })
 
     d3.selectAll("circle")
         .on("mouseout", function (d) {
             d3.select(this)
                 .attr("fill", function (d) {
-                    return d3.rgb(d.colorValue[0], d.colorValue[1], d.colorValue[2])
+                    return d.colorValue[0];
 
                 })
                 .attr("r", 8)
+            tooltips.transition()
+                .duration(300)
+                .style("opacity", 0);
+
         })
     bubbleChart.append("text")
         .text("A.D.")

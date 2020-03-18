@@ -1,1722 +1,12 @@
 [
     {
-        "objectID": "36026",
-        "colorValue": [
-            126,
-            95,
-            44
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/13_220_118_O.jpg",
-        "artistName": "Wang Wenzhi",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Spring Ablutions at the Orchid Pavilion",
-        "date": 1644,
-        "url": "https://www.metmuseum.org/art/collection/search/36026",
-        "season": "Spring"
-    },
-    {
-        "objectID": "11234",
-        "colorValue": [
-            108,
-            114,
-            99
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT98.jpg",
-        "artistName": "George Inness",
-        "department": "The American Wing",
-        "culture": "American",
-        "title": "Spring Blossoms, Montclair, New Jersey",
-        "date": 1888,
-        "url": "https://www.metmuseum.org/art/collection/search/11234",
-        "season": "Spring"
-    },
-    {
-        "objectID": "10481",
-        "colorValue": [
-            82,
-            64,
-            27
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT78.jpg",
-        "artistName": "Frederic Edwin Church",
-        "department": "The American Wing",
-        "culture": "American",
-        "title": "Heart of the Andes",
-        "date": 1859,
-        "url": "https://www.metmuseum.org/art/collection/search/10481",
-        "season": "Spring"
-    },
-    {
-        "objectID": "36131",
-        "colorValue": [
-            194,
-            172,
-            147
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/1981_4_1a.jpg",
-        "artistName": "Gong Xian",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes with Poems",
-        "date": 1688,
-        "url": "https://www.metmuseum.org/art/collection/search/36131",
-        "season": "Spring"
-    },
-    {
-        "objectID": "40091",
-        "colorValue": [
-            159,
-            131,
-            98
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP153518.jpg",
-        "artistName": "Unidentified Artist",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Early spring landscape",
-        "date": 1234,
-        "url": "https://www.metmuseum.org/art/collection/search/40091",
-        "season": "Spring"
-    },
-    {
-        "objectID": "36188",
-        "colorValue": [
-            224,
-            208,
-            192
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP162538.jpg",
-        "artistName": "Wu Shixian",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Misty Rain on the River in Spring",
-        "date": 1816,
-        "url": "https://www.metmuseum.org/art/collection/search/36188",
-        "season": "Spring"
-    },
-    {
-        "objectID": "36436",
-        "colorValue": [
-            210,
-            200,
-            185
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP162771.jpg",
-        "artistName": "Zhang Feng",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes",
-        "date": 1644,
-        "url": "https://www.metmuseum.org/art/collection/search/36436",
-        "season": "Spring"
-    },
-    {
-        "objectID": "41479",
-        "colorValue": [
-            171,
-            157,
-            141
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP216493_94.jpg",
-        "artistName": "Dong Qichang",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Invitation to Reclusion at Jingxi",
-        "date": 1611,
-        "url": "https://www.metmuseum.org/art/collection/search/41479",
-        "season": "Spring"
-    },
-    {
-        "objectID": "42347",
-        "colorValue": [
-            158,
-            134,
-            101
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT8176.jpg",
-        "artistName": "",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Eight Views of the Xiao and Xiang Rivers",
-        "date": 1500,
-        "url": "https://www.metmuseum.org/art/collection/search/42347",
-        "season": "Spring"
-    },
-    {
-        "objectID": "42346",
-        "colorValue": [
-            144,
-            122,
-            99
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT8029.jpg",
-        "artistName": "Kenkō Shōkei",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Landscape with Pavilion",
-        "date": 1478,
-        "url": "https://www.metmuseum.org/art/collection/search/42346",
-        "season": "Spring"
-    },
-    {
-        "objectID": "435573",
-        "colorValue": [
-            54,
-            50,
-            36
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8028.jpg",
-        "artistName": "Jacopo Amigoni",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Flora and Zephyr",
-        "date": 1730,
-        "url": "https://www.metmuseum.org/art/collection/search/435573",
-        "season": "Spring"
-    },
-    {
-        "objectID": "435809",
-        "colorValue": [
-            152,
-            116,
-            69
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP119115.jpg",
-        "artistName": "Pieter Bruegel the Elder",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "The Harvesters",
-        "date": 1565,
-        "url": "https://www.metmuseum.org/art/collection/search/435809",
-        "season": "Spring"
-    },
-    {
-        "objectID": "436085",
-        "colorValue": [
-            38,
-            40,
-            22
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2145.jpg",
-        "artistName": "Charles-François Daubigny",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Apple Blossoms",
-        "date": 1873,
-        "url": "https://www.metmuseum.org/art/collection/search/436085",
-        "season": "Spring"
-    },
-    {
-        "objectID": "437307",
-        "colorValue": [
-            133,
-            134,
-            76
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1866.jpg",
-        "artistName": "Camille Pissarro",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Poplars, Éragny",
-        "date": 1895,
-        "url": "https://www.metmuseum.org/art/collection/search/437307",
-        "season": "Spring"
-    },
-    {
-        "objectID": "437097",
-        "colorValue": [
-            125,
-            111,
-            79
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP124093.jpg",
-        "artistName": "Jean-François Millet",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Haystacks: Autumn",
-        "date": 1869,
-        "url": "https://www.metmuseum.org/art/collection/search/437097",
-        "season": "Spring"
-    },
-    {
-        "objectID": "437316",
-        "colorValue": [
-            67,
-            67,
-            44
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1043.jpg",
-        "artistName": "Camille Pissarro",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Côte des Grouettes, near Pontoise",
-        "date": 1878,
-        "url": "https://www.metmuseum.org/art/collection/search/437316",
-        "season": "Spring"
-    },
-    {
-        "objectID": "437685",
-        "colorValue": [
-            77,
-            83,
-            76
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1871.jpg",
-        "artistName": "Alfred Sisley",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "The Road from Versailles to Louveciennes",
-        "date": 1859,
-        "url": "https://www.metmuseum.org/art/collection/search/437685",
-        "season": "Spring"
-    },
-    {
-        "objectID": "438820",
-        "colorValue": [
-            96,
-            73,
-            31
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1967.jpg",
-        "artistName": "Gustave Courbet",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Young Ladies of the Village",
-        "date": 1851,
-        "url": "https://www.metmuseum.org/art/collection/search/438820",
-        "season": "Spring"
-    },
-    {
-        "objectID": "45673",
-        "colorValue": [
-            116,
-            90,
-            64
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205315_CRD.jpg",
-        "artistName": "Unidentified Artist",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "The Four Seasons",
-        "date": 1400,
-        "url": "https://www.metmuseum.org/art/collection/search/45673",
-        "season": "Spring"
-    },
-    {
-        "objectID": "45647",
-        "colorValue": [
-            179,
-            165,
-            143
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP235481.jpg",
-        "artistName": "Zhao Yuan",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Farewell by a Stream on a Clear Day",
-        "date": 1350,
-        "url": "https://www.metmuseum.org/art/collection/search/45647",
-        "season": "Spring"
-    },
-    {
-        "objectID": "438821",
-        "colorValue": [
-            113,
-            113,
-            92
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1025.jpg",
-        "artistName": "Paul Gauguin",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Ia Orana Maria (Hail Mary)",
-        "date": 1891,
-        "url": "https://www.metmuseum.org/art/collection/search/438821",
-        "season": "Spring"
-    },
-    {
-        "objectID": "45738",
-        "colorValue": [
-            140,
-            140,
-            140
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/14_76_16.jpg",
-        "artistName": "Kano Tansui",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "View of Mt. Horai",
-        "date": 1800,
-        "url": "https://www.metmuseum.org/art/collection/search/45738",
-        "season": "Spring"
-    },
-    {
-        "objectID": "458967",
-        "colorValue": [
-            110,
-            91,
-            70
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/rl/original/DP319194.jpg",
-        "artistName": "Osservanza Master",
-        "department": "Robert Lehman Collection",
-        "culture": "",
-        "title": "Saint Anthony the Abbot in the Wilderness",
-        "date": 1432,
-        "url": "https://www.metmuseum.org/art/collection/search/458967",
-        "season": "Spring"
-    },
-    {
-        "objectID": "49019",
-        "colorValue": [
-            124,
-            106,
-            73
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/1989_363_114_O.jpg",
-        "artistName": "Lan Ying",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Hermit-Fisherman on a Spring River",
-        "date": 1632,
-        "url": "https://www.metmuseum.org/art/collection/search/49019",
-        "season": "Spring"
-    },
-    {
-        "objectID": "45815",
-        "colorValue": [
-            185,
-            160,
-            126
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT5558.jpg",
-        "artistName": "Lu Zhi",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Planting Chrysanthemums",
-        "date": 1534,
-        "url": "https://www.metmuseum.org/art/collection/search/45815",
-        "season": "Spring"
-    },
-    {
-        "objectID": "49017",
-        "colorValue": [
-            207,
-            187,
-            164
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161053.jpg",
-        "artistName": "Yun Xiang",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes after old masters",
-        "date": 1638,
-        "url": "https://www.metmuseum.org/art/collection/search/49017",
-        "season": "Spring"
-    },
-    {
-        "objectID": "49113",
-        "colorValue": [
-            187,
-            170,
-            155
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161065.jpg",
-        "artistName": "Wang Jian",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes in the styles of old masters",
-        "date": 1668,
-        "url": "https://www.metmuseum.org/art/collection/search/49113",
-        "season": "Spring"
-    },
-    {
-        "objectID": "49021",
-        "colorValue": [
-            200,
-            178,
-            154
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161009.jpg",
-        "artistName": "Lan Ying",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes after Song and Yuan masters",
-        "date": 1642,
-        "url": "https://www.metmuseum.org/art/collection/search/49021",
-        "season": "Spring"
-    },
-    {
-        "objectID": "49173",
-        "colorValue": [
-            216,
-            200,
-            183
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP143725_CRD.jpg",
-        "artistName": "Shitao (Zhu Ruoji)",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Returning Home",
-        "date": 1685,
-        "url": "https://www.metmuseum.org/art/collection/search/49173",
-        "season": "Spring"
-    },
-    {
-        "objectID": "49177",
-        "colorValue": [
-            163,
-            152,
-            143
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP204906_CRD.jpg",
-        "artistName": "Shitao (Zhu Ruoji)",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Outing to Zhang Gong's Grotto",
-        "date": 1690,
-        "url": "https://www.metmuseum.org/art/collection/search/49177",
-        "season": "Spring"
-    },
-    {
-        "objectID": "53586",
-        "colorValue": [
-            119,
-            98,
-            72
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP202117_CRD.jpg",
-        "artistName": "Unidentified Artist",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Spring Morning at the Palace of the Han Emperors",
-        "date": 1600,
-        "url": "https://www.metmuseum.org/art/collection/search/53586",
-        "season": "Spring"
-    },
-    {
-        "objectID": "49178",
-        "colorValue": [
-            47,
-            46,
-            44
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13954-002.jpg",
-        "artistName": "Shitao (Zhu Ruoji)",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Drunk in Autumn Woods",
-        "date": 1692,
-        "url": "https://www.metmuseum.org/art/collection/search/49178",
-        "season": "Spring"
-    },
-    {
-        "objectID": "53012",
-        "colorValue": [
-            189,
-            157,
-            114
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/2015_300_44_Burke_website.jpg",
-        "artistName": "Ishiyama Moroka",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Eight Views from The Tale of Genji (Genji monogatari hakkei)",
-        "date": 1600,
-        "url": "https://www.metmuseum.org/art/collection/search/53012",
-        "season": "Spring"
-    },
-    {
-        "objectID": "54476",
-        "colorValue": [
-            175,
-            175,
-            175
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/4086.jpg",
-        "artistName": "Kawabata Gyokushō",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Spring Landscape",
-        "date": 1900,
-        "url": "https://www.metmuseum.org/art/collection/search/54476",
-        "season": "Spring"
-    },
-    {
-        "objectID": "61825",
-        "colorValue": [
-            209,
-            191,
-            170
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP160452.jpg",
-        "artistName": "Mei Qing",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes after Ancient Masters",
-        "date": 1693,
-        "url": "https://www.metmuseum.org/art/collection/search/61825",
-        "season": "Spring"
-    },
-    {
-        "objectID": "65628",
-        "colorValue": [
-            17,
-            18,
-            18
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13189-002_crd.jpg",
-        "artistName": "Various Artists",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Album of Painting and Calligraphy for Maoshu",
-        "date": 1666,
-        "url": "https://www.metmuseum.org/art/collection/search/65628",
-        "season": "Spring"
-    },
-    {
-        "objectID": "64872",
-        "colorValue": [
-            203,
-            174,
-            135
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP359324_crd.jpg",
-        "artistName": "Genki (Komai Ki)",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Scenes of the Four Seasons in Kyoto",
-        "date": 1778,
-        "url": "https://www.metmuseum.org/art/collection/search/64872",
-        "season": "Spring"
-    },
-    {
-        "objectID": "73650",
-        "colorValue": [
-            182,
-            173,
-            147
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/S_L_4_2007_1_1_sec02.jpg",
-        "artistName": "Zhang Hong",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Peach Blossom Spring",
-        "date": 1638,
-        "url": "https://www.metmuseum.org/art/collection/search/73650",
-        "season": "Spring"
-    },
-    {
-        "objectID": "72262",
-        "colorValue": [
-            161,
-            127,
-            93
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP160989.jpg",
-        "artistName": "Sheng Maoye",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes after Tang Poems",
-        "date": 1634,
-        "url": "https://www.metmuseum.org/art/collection/search/72262",
-        "season": "Spring"
-    },
-    {
-        "objectID": "73646",
-        "colorValue": [
-            117,
-            91,
-            65
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP145870_crd.jpg",
-        "artistName": "Gao Cen",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes in the styles of old masters",
-        "date": 1667,
-        "url": "https://www.metmuseum.org/art/collection/search/73646",
-        "season": "Spring"
-    },
-    {
-        "objectID": "10154",
-        "colorValue": [
-            75,
-            68,
-            42
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT82.jpg",
-        "artistName": "Albert Bierstadt",
-        "department": "The American Wing",
-        "culture": "American",
-        "title": "The Rocky Mountains, Lander's Peak",
-        "date": 1863,
-        "url": "https://www.metmuseum.org/art/collection/search/10154",
-        "season": "Summer"
-    },
-    {
-        "objectID": "11317",
-        "colorValue": [
-            179,
-            171,
-            144
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/ap74.25.jpg",
-        "artistName": "John Frederick Kensett",
-        "department": "The American Wing",
-        "culture": "American",
-        "title": "October in the Marshes",
-        "date": 1872,
-        "url": "https://www.metmuseum.org/art/collection/search/11317",
-        "season": "Summer"
-    },
-    {
-        "objectID": "10207",
-        "colorValue": [
-            162,
-            133,
-            107
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2101.jpg",
-        "artistName": "William Bradford",
-        "department": "The American Wing",
-        "culture": "American",
-        "title": "An Arctic Summer: Boring Through the Pack in Melville Bay",
-        "date": 1871,
-        "url": "https://www.metmuseum.org/art/collection/search/10207",
-        "season": "Summer"
-    },
-    {
-        "objectID": "12802",
-        "colorValue": [
-            67,
-            55,
-            41
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1984.252.1.jpg",
-        "artistName": "Jerome B. Thompson",
-        "department": "The American Wing",
-        "culture": "American",
-        "title": "Summer Flowers",
-        "date": 1859,
-        "url": "https://www.metmuseum.org/art/collection/search/12802",
-        "season": "Summer"
-    },
-    {
-        "objectID": "10788",
-        "colorValue": [
-            176,
-            184,
-            175
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/ap77.3.1.jpg",
-        "artistName": "Asher Brown Durand",
-        "department": "The American Wing",
-        "culture": "American",
-        "title": "High Point: Shandaken Mountains",
-        "date": 1853,
-        "url": "https://www.metmuseum.org/art/collection/search/10788",
-        "season": "Summer"
-    },
-    {
-        "objectID": "36049",
-        "colorValue": [
-            141,
-            114,
-            81
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP201351_CRD.jpg",
-        "artistName": "Unidentified Artist",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Streams and Mountains Without End",
-        "date": 1600,
-        "url": "https://www.metmuseum.org/art/collection/search/36049",
-        "season": "Summer"
-    },
-    {
-        "objectID": "11318",
-        "colorValue": [
-            189,
-            183,
-            165
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/ap74.38.jpg",
-        "artistName": "John Frederick Kensett",
-        "department": "The American Wing",
-        "culture": "American",
-        "title": "The Old Pine, Darien, Connecticut",
-        "date": 1872,
-        "url": "https://www.metmuseum.org/art/collection/search/11318",
-        "season": "Summer"
-    },
-    {
-        "objectID": "36131",
-        "colorValue": [
-            194,
-            172,
-            147
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/1981_4_1a.jpg",
-        "artistName": "Gong Xian",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes with Poems",
-        "date": 1688,
-        "url": "https://www.metmuseum.org/art/collection/search/36131",
-        "season": "Summer"
-    },
-    {
-        "objectID": "10946",
-        "colorValue": [
-            216,
-            191,
-            149
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT81.jpg",
-        "artistName": "Sanford Robinson Gifford",
-        "department": "The American Wing",
-        "culture": "American",
-        "title": "A Gorge in the Mountains (Kauterskill Clove)",
-        "date": 1862,
-        "url": "https://www.metmuseum.org/art/collection/search/10946",
-        "season": "Summer"
-    },
-    {
-        "objectID": "36027",
-        "colorValue": [
-            140,
-            135,
-            130
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/13_220_123_O1_sf.jpg",
-        "artistName": "Zhang Geng",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscape After Wang Meng",
-        "date": 1759,
-        "url": "https://www.metmuseum.org/art/collection/search/36027",
-        "season": "Summer"
-    },
-    {
-        "objectID": "36436",
-        "colorValue": [
-            210,
-            200,
-            185
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP162771.jpg",
-        "artistName": "Zhang Feng",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes",
-        "date": 1644,
-        "url": "https://www.metmuseum.org/art/collection/search/36436",
-        "season": "Summer"
-    },
-    {
-        "objectID": "39915",
-        "colorValue": [
-            104,
-            90,
-            69
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP226465.jpg",
-        "artistName": "Qu Ding",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Summer Mountains",
-        "date": 1040,
-        "url": "https://www.metmuseum.org/art/collection/search/39915",
-        "season": "Summer"
-    },
-    {
-        "objectID": "36135",
-        "colorValue": [
-            203,
-            193,
-            188
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT9400.jpg",
-        "artistName": "Wen Jia",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscape Dedicated to Xiang Yuanbian",
-        "date": 1578,
-        "url": "https://www.metmuseum.org/art/collection/search/36135",
-        "season": "Summer"
-    },
-    {
-        "objectID": "39959",
-        "colorValue": [
-            112,
-            85,
-            57
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP165265_CRD.jpg",
-        "artistName": "Yang Bangji",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "A Diplomatic Mission to the Jin",
-        "date": 1156,
-        "url": "https://www.metmuseum.org/art/collection/search/39959",
-        "season": "Summer"
-    },
-    {
-        "objectID": "40002",
-        "colorValue": [
-            78,
-            64,
-            48
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP165244.jpg",
-        "artistName": "Unidentified Artist",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscape in the style of Fan Kuan",
-        "date": 1100,
-        "url": "https://www.metmuseum.org/art/collection/search/40002",
-        "season": "Summer"
-    },
-    {
-        "objectID": "40007",
-        "colorValue": [
-            154,
-            133,
-            116
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP212993_4_CRD.jpg",
-        "artistName": "Mi Youren",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Cloudy Mountains",
-        "date": 1127,
-        "url": "https://www.metmuseum.org/art/collection/search/40007",
-        "season": "Summer"
-    },
-    {
-        "objectID": "40062",
-        "colorValue": [
-            237,
-            228,
-            208
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP154096.jpg",
-        "artistName": "Yan Ciyu",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Hermitage by a Pine-covered Bluff",
-        "date": 1164,
-        "url": "https://www.metmuseum.org/art/collection/search/40062",
-        "season": "Summer"
-    },
-    {
-        "objectID": "42347",
-        "colorValue": [
-            158,
-            134,
-            101
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT8176.jpg",
-        "artistName": "",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Eight Views of the Xiao and Xiang Rivers",
-        "date": 1500,
-        "url": "https://www.metmuseum.org/art/collection/search/42347",
-        "season": "Summer"
-    },
-    {
-        "objectID": "41479",
-        "colorValue": [
-            171,
-            157,
-            141
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP216493_94.jpg",
-        "artistName": "Dong Qichang",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Invitation to Reclusion at Jingxi",
-        "date": 1611,
-        "url": "https://www.metmuseum.org/art/collection/search/41479",
-        "season": "Summer"
-    },
-    {
-        "objectID": "42493",
-        "colorValue": [
-            158,
-            134,
-            101
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT8176.jpg",
-        "artistName": "",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Eight Views of the Xiao and Xiang Rivers",
-        "date": 1500,
-        "url": "https://www.metmuseum.org/art/collection/search/42493",
-        "season": "Summer"
-    },
-    {
-        "objectID": "435655",
-        "colorValue": [
-            64,
-            43,
-            22
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143195.jpg",
-        "artistName": "Nicolaes Berchem",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Rest",
-        "date": 1644,
-        "url": "https://www.metmuseum.org/art/collection/search/435655",
-        "season": "Summer"
-    },
-    {
-        "objectID": "435707",
-        "colorValue": [
-            179,
-            176,
-            166
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164827.jpg",
-        "artistName": "Richard Parkes Bonington",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Roadside Halt",
-        "date": 1826,
-        "url": "https://www.metmuseum.org/art/collection/search/435707",
-        "season": "Summer"
-    },
-    {
-        "objectID": "435684",
-        "colorValue": [
-            67,
-            67,
-            67
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/ep26.100.bw.R.jpg",
-        "artistName": "Arnold Böcklin",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Roman Landscape",
-        "date": 1850,
-        "url": "https://www.metmuseum.org/art/collection/search/435684",
-        "season": "Summer"
-    },
-    {
-        "objectID": "435809",
-        "colorValue": [
-            152,
-            116,
-            69
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP119115.jpg",
-        "artistName": "Pieter Bruegel the Elder",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "The Harvesters",
-        "date": 1565,
-        "url": "https://www.metmuseum.org/art/collection/search/435809",
-        "season": "Summer"
-    },
-    {
-        "objectID": "435879",
-        "colorValue": [
-            80,
-            100,
-            95
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1492.jpg",
-        "artistName": "Paul Cézanne",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "The Pool at Jas de Bouffan",
-        "date": 1885,
-        "url": "https://www.metmuseum.org/art/collection/search/435879",
-        "season": "Summer"
-    },
-    {
-        "objectID": "436060",
-        "colorValue": [
-            51,
-            35,
-            20
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143164.jpg",
-        "artistName": "Abraham van Cuylenborch",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Bacchus and Nymphs in a Landscape",
-        "date": 1640,
-        "url": "https://www.metmuseum.org/art/collection/search/436060",
-        "season": "Summer"
-    },
-    {
-        "objectID": "435923",
-        "colorValue": [
-            61,
-            58,
-            44
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164805.jpg",
-        "artistName": "John Constable",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Stoke-by-Nayland",
-        "date": 1805,
-        "url": "https://www.metmuseum.org/art/collection/search/435923",
-        "season": "Summer"
-    },
-    {
-        "objectID": "436083",
-        "colorValue": [
-            233,
-            221,
-            201
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/EP1038.jpg",
-        "artistName": "Charles-François Daubigny",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "A River Landscape with Storks",
-        "date": 1864,
-        "url": "https://www.metmuseum.org/art/collection/search/436083",
-        "season": "Summer"
-    },
-    {
-        "objectID": "436241",
-        "colorValue": [
-            211,
-            197,
-            157
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP232030.jpg",
-        "artistName": "Jules Dupré",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Cows Crossing a Ford",
-        "date": 1836,
-        "url": "https://www.metmuseum.org/art/collection/search/436241",
-        "season": "Summer"
-    },
-    {
-        "objectID": "436441",
-        "colorValue": [
-            61,
-            50,
-            33
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123922.jpg",
-        "artistName": "Thomas Gainsborough",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Wooded Upland Landscape",
-        "date": 1783,
-        "url": "https://www.metmuseum.org/art/collection/search/436441",
-        "season": "Summer"
-    },
-    {
-        "objectID": "436455",
-        "colorValue": [
-            54,
-            37,
-            27
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2138.jpg",
-        "artistName": "Théodore Gericault",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Evening: Landscape with an Aqueduct",
-        "date": 1818,
-        "url": "https://www.metmuseum.org/art/collection/search/436455",
-        "season": "Summer"
-    },
-    {
-        "objectID": "436558",
-        "colorValue": [
-            123,
-            119,
-            102
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146495.jpg",
-        "artistName": "Jan van Goyen",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "View of Haarlem and the Haarlemmer Meer",
-        "date": 1646,
-        "url": "https://www.metmuseum.org/art/collection/search/436558",
-        "season": "Summer"
-    },
-    {
-        "objectID": "436952",
-        "colorValue": [
-            58,
-            74,
-            63
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1931.jpg",
-        "artistName": "Edouard Manet",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "The Funeral",
-        "date": 1867,
-        "url": "https://www.metmuseum.org/art/collection/search/436952",
-        "season": "Summer"
-    },
-    {
-        "objectID": "437191",
-        "colorValue": [
-            54,
-            47,
-            32
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146446.jpg",
-        "artistName": "Aert van der Neer",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Landscape at Sunset",
-        "date": 1650,
-        "url": "https://www.metmuseum.org/art/collection/search/437191",
-        "season": "Summer"
-    },
-    {
-        "objectID": "437102",
-        "colorValue": [
-            135,
-            138,
-            121
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146459.jpg",
-        "artistName": "Pieter de Molijn",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Landscape with a Cottage",
-        "date": 1629,
-        "url": "https://www.metmuseum.org/art/collection/search/437102",
-        "season": "Summer"
-    },
-    {
-        "objectID": "437323",
-        "colorValue": [
-            141,
-            148,
-            139
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145952.jpg",
-        "artistName": "Frans Post",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "A Brazilian Landscape",
-        "date": 1650,
-        "url": "https://www.metmuseum.org/art/collection/search/437323",
-        "season": "Summer"
-    },
-    {
-        "objectID": "437316",
-        "colorValue": [
-            67,
-            67,
-            44
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1043.jpg",
-        "artistName": "Camille Pissarro",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Côte des Grouettes, near Pontoise",
-        "date": 1878,
-        "url": "https://www.metmuseum.org/art/collection/search/437316",
-        "season": "Summer"
-    },
-    {
-        "objectID": "437516",
-        "colorValue": [
-            36,
-            29,
-            18
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/ep3.28.R.jpg",
-        "artistName": "Théodore Rousseau",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "An Old Chapel in a Valley",
-        "date": 1832,
-        "url": "https://www.metmuseum.org/art/collection/search/437516",
-        "season": "Summer"
-    },
-    {
-        "objectID": "437547",
-        "colorValue": [
-            118,
-            119,
-            99
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146453.jpg",
-        "artistName": "Jacob van Ruisdael",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Grainfields",
-        "date": 1664,
-        "url": "https://www.metmuseum.org/art/collection/search/437547",
-        "season": "Summer"
-    },
-    {
-        "objectID": "437517",
-        "colorValue": [
-            55,
-            51,
-            25
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT240033.jpg",
-        "artistName": "Théodore Rousseau",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "A Path among the Rocks",
-        "date": 1832,
-        "url": "https://www.metmuseum.org/art/collection/search/437517",
-        "season": "Summer"
-    },
-    {
-        "objectID": "437436",
-        "colorValue": [
-            68,
-            83,
-            66
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP265242.jpg",
-        "artistName": "Auguste Renoir",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "A Road in Louveciennes",
-        "date": 1865,
-        "url": "https://www.metmuseum.org/art/collection/search/437436",
-        "season": "Summer"
-    },
-    {
-        "objectID": "437549",
-        "colorValue": [
-            105,
-            103,
-            92
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145911.jpg",
-        "artistName": "Jacob van Ruisdael",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Wheat Fields",
-        "date": 1665,
-        "url": "https://www.metmuseum.org/art/collection/search/437549",
-        "season": "Summer"
-    },
-    {
-        "objectID": "437586",
-        "colorValue": [
-            122,
-            121,
-            111
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143152.jpg",
-        "artistName": "Salomon van Ruysdael",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "A Country Road",
-        "date": 1648,
-        "url": "https://www.metmuseum.org/art/collection/search/437586",
-        "season": "Summer"
-    },
-    {
-        "objectID": "437760",
-        "colorValue": [
-            164,
-            157,
-            142
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143202.jpg",
-        "artistName": "Jacob van Strij",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Landscape with Cattle",
-        "date": 1795,
-        "url": "https://www.metmuseum.org/art/collection/search/437760",
-        "season": "Summer"
-    },
-    {
-        "objectID": "437683",
-        "colorValue": [
-            191,
-            187,
-            188
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1870.jpg",
-        "artistName": "Alfred Sisley",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Sahurs Meadows in Morning Sun",
-        "date": 1894,
-        "url": "https://www.metmuseum.org/art/collection/search/437683",
-        "season": "Summer"
-    },
-    {
-        "objectID": "44876",
-        "colorValue": [
-            140,
-            140,
-            140
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/14_76_15.jpg",
-        "artistName": "Kano Tansui",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Isle of Immortals with Flanking Chinese Landscapes (Eight Views of Xiao and Xiang)",
-        "date": 1800,
-        "url": "https://www.metmuseum.org/art/collection/search/44876",
-        "season": "Summer"
-    },
-    {
-        "objectID": "438738",
-        "colorValue": [
-            125,
-            117,
-            81
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP116768.jpg",
-        "artistName": "Camille Pissarro",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Haystacks, Morning, Éragny",
-        "date": 1899,
-        "url": "https://www.metmuseum.org/art/collection/search/438738",
-        "season": "Summer"
-    },
-    {
-        "objectID": "44759",
-        "colorValue": [
-            194,
-            189,
-            177
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/1985_121_A_sf.jpg",
-        "artistName": "Chen Hongshou",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes, Figures, and Flowers",
-        "date": 1618,
-        "url": "https://www.metmuseum.org/art/collection/search/44759",
-        "season": "Summer"
-    },
-    {
-        "objectID": "437980",
-        "colorValue": [
-            59,
-            75,
-            52
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP130999.jpg",
-        "artistName": "Vincent van Gogh",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Cypresses",
-        "date": 1889,
-        "url": "https://www.metmuseum.org/art/collection/search/437980",
-        "season": "Summer"
-    },
-    {
-        "objectID": "45673",
-        "colorValue": [
-            116,
-            90,
-            64
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205315_CRD.jpg",
-        "artistName": "Unidentified Artist",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "The Four Seasons",
-        "date": 1400,
-        "url": "https://www.metmuseum.org/art/collection/search/45673",
-        "season": "Summer"
-    },
-    {
-        "objectID": "45201",
-        "colorValue": [
-            110,
-            84,
-            55
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP221036.jpg",
-        "artistName": "",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Descent and Return of Amida to Western Paradise with a Believer's Soul (Gōshō mandara)",
-        "date": 1290,
-        "url": "https://www.metmuseum.org/art/collection/search/45201",
-        "season": "Summer"
-    },
-    {
-        "objectID": "45698",
-        "colorValue": [
-            194,
-            164,
-            124
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP231173.jpg",
-        "artistName": "Kano Tan'yū",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Winter Landscape",
-        "date": 1662,
-        "url": "https://www.metmuseum.org/art/collection/search/45698",
-        "season": "Summer"
-    },
-    {
-        "objectID": "45650",
-        "colorValue": [
-            204,
-            186,
-            160
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP157322_CRD.jpg",
-        "artistName": "Zhao Yuan",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscape",
-        "date": 1367,
-        "url": "https://www.metmuseum.org/art/collection/search/45650",
-        "season": "Summer"
-    },
-    {
-        "objectID": "45700",
-        "colorValue": [
-            193,
-            162,
-            122
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP231177.jpg",
-        "artistName": "Kano Tan'yū",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Summer Landscape",
-        "date": 1662,
-        "url": "https://www.metmuseum.org/art/collection/search/45700",
-        "season": "Summer"
-    },
-    {
-        "objectID": "45738",
-        "colorValue": [
-            140,
-            140,
-            140
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/14_76_16.jpg",
-        "artistName": "Kano Tansui",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "View of Mt. Horai",
-        "date": 1800,
-        "url": "https://www.metmuseum.org/art/collection/search/45738",
-        "season": "Summer"
-    },
-    {
-        "objectID": "49158",
-        "colorValue": [
-            209,
-            202,
-            189
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP153654_CRD.jpg",
-        "artistName": "Wu Li",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Whiling Away the Summer",
-        "date": 1679,
-        "url": "https://www.metmuseum.org/art/collection/search/49158",
-        "season": "Summer"
-    },
-    {
-        "objectID": "48990",
-        "colorValue": [
-            169,
-            150,
-            89
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/64_55_1.JPG",
-        "artistName": "Ike Taiga",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Landscapes in Summer and Winter",
-        "date": 1723,
-        "url": "https://www.metmuseum.org/art/collection/search/48990",
-        "season": "Summer"
-    },
-    {
-        "objectID": "48991",
-        "colorValue": [
-            173,
-            150,
-            95
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/64_55_2.JPG",
-        "artistName": "Ike Taiga",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Landscapes in Summer and Winter",
-        "date": 1723,
-        "url": "https://www.metmuseum.org/art/collection/search/48991",
-        "season": "Summer"
-    },
-    {
-        "objectID": "49017",
-        "colorValue": [
-            207,
-            187,
-            164
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161053.jpg",
-        "artistName": "Yun Xiang",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes after old masters",
-        "date": 1638,
-        "url": "https://www.metmuseum.org/art/collection/search/49017",
-        "season": "Summer"
-    },
-    {
-        "objectID": "49227",
-        "colorValue": [
-            147,
-            120,
-            97
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP274140.jpg",
-        "artistName": "Yuan Jiang",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "The Palace of Nine Perfections",
-        "date": 1691,
-        "url": "https://www.metmuseum.org/art/collection/search/49227",
-        "season": "Summer"
-    },
-    {
-        "objectID": "51850",
-        "colorValue": [
-            169,
-            172,
-            165
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/62_102.jpg",
-        "artistName": "Dong Qichang",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Summer Landscape",
-        "date": 1555,
-        "url": "https://www.metmuseum.org/art/collection/search/51850",
-        "season": "Summer"
-    },
-    {
-        "objectID": "53451",
-        "colorValue": [
-            192,
-            173,
-            148
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-164.jpg",
-        "artistName": "Sakaki Hyakusen",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Snowy Landscape",
-        "date": 1620,
-        "url": "https://www.metmuseum.org/art/collection/search/53451",
-        "season": "Summer"
-    },
-    {
-        "objectID": "57327",
-        "colorValue": [
-            155,
-            128,
-            98
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/52_160_1_O2.jpg",
-        "artistName": "Shibata Zeshin",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Maple Viewing at Kai'anji Temple",
-        "date": 1850,
-        "url": "https://www.metmuseum.org/art/collection/search/57327",
-        "season": "Summer"
-    },
-    {
-        "objectID": "53463",
-        "colorValue": [
-            145,
-            138,
-            126
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-233.jpg",
-        "artistName": "Yamamoto Baiitsu",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Landscapes of the Four Seasons",
-        "date": 1700,
-        "url": "https://www.metmuseum.org/art/collection/search/53463",
-        "season": "Summer"
-    },
-    {
-        "objectID": "64872",
-        "colorValue": [
-            203,
-            174,
-            135
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP359324_crd.jpg",
-        "artistName": "Genki (Komai Ki)",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Scenes of the Four Seasons in Kyoto",
-        "date": 1778,
-        "url": "https://www.metmuseum.org/art/collection/search/64872",
-        "season": "Summer"
-    },
-    {
-        "objectID": "65628",
-        "colorValue": [
-            17,
-            18,
-            18
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13189-002_crd.jpg",
-        "artistName": "Various Artists",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Album of Painting and Calligraphy for Maoshu",
-        "date": 1666,
-        "url": "https://www.metmuseum.org/art/collection/search/65628",
-        "season": "Summer"
-    },
-    {
-        "objectID": "670542",
-        "colorValue": [
-            167,
-            125,
-            86
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-187.jpg",
-        "artistName": "Ike Taiga",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Evening Glow in a Mountain Village and Calligraphy",
-        "date": 1767,
-        "url": "https://www.metmuseum.org/art/collection/search/670542",
-        "season": "Summer"
-    },
-    {
         "objectID": "10501",
         "colorValue": [
-            46,
-            36,
-            14
+            "#2e240e",
+            "#b8aaa3",
+            "#999aae",
+            "#908784",
+            "#a4641c"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2639.jpg",
         "artistName": "Thomas Cole",
@@ -1730,9 +20,11 @@
     {
         "objectID": "10578",
         "colorValue": [
-            98,
-            70,
-            34
+            "#624622",
+            "#e3cbb4",
+            "#95753c",
+            "#7a6432",
+            "#a8846b"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/ap61.262.jpg",
         "artistName": "Jasper Francis Cropsey",
@@ -1744,11 +36,31 @@
         "season": "Autumn"
     },
     {
+        "objectID": "10777",
+        "colorValue": [
+            "#393023",
+            "#c7cbc9",
+            "#816c51",
+            "#9ba4b3",
+            "#8b8c9c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT10421.jpg",
+        "artistName": "Robert S. Duncanson",
+        "department": "The American Wing",
+        "culture": "American",
+        "title": "Landscape with Shepherd",
+        "date": 1852,
+        "url": "https://www.metmuseum.org/art/collection/search/10777",
+        "season": "Autumn"
+    },
+    {
         "objectID": "11227",
         "colorValue": [
-            44,
-            36,
-            25
+            "#2c2419",
+            "#ced7cb",
+            "#93aaa8",
+            "#758698",
+            "#85682b"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/ap87.8.8.jpg",
         "artistName": "George Inness",
@@ -1762,9 +74,11 @@
     {
         "objectID": "39668",
         "colorValue": [
-            133,
-            108,
-            83
+            "#856c53",
+            "#d4b078",
+            "#c5916a",
+            "#4f4941",
+            "#964039"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP167812_CRD.jpg",
         "artistName": "Guo Xi",
@@ -1776,27 +90,13 @@
         "season": "Autumn"
     },
     {
-        "objectID": "41479",
-        "colorValue": [
-            171,
-            157,
-            141
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP216493_94.jpg",
-        "artistName": "Dong Qichang",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Invitation to Reclusion at Jingxi",
-        "date": 1611,
-        "url": "https://www.metmuseum.org/art/collection/search/41479",
-        "season": "Autumn"
-    },
-    {
         "objectID": "36436",
         "colorValue": [
-            210,
-            200,
-            185
+            "#d2c8b9",
+            "#938a7d",
+            "#605b53",
+            "#87645a",
+            "#827464"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP162771.jpg",
         "artistName": "Zhang Feng",
@@ -1808,11 +108,31 @@
         "season": "Autumn"
     },
     {
+        "objectID": "41479",
+        "colorValue": [
+            "#ab9d8d",
+            "#393028",
+            "#675c51",
+            "#55433b",
+            "#564c3b"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP216493_94.jpg",
+        "artistName": "Dong Qichang",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Invitation to Reclusion at Jingxi",
+        "date": 1611,
+        "url": "https://www.metmuseum.org/art/collection/search/41479",
+        "season": "Autumn"
+    },
+    {
         "objectID": "39536",
         "colorValue": [
-            190,
-            172,
-            156
+            "#beac9c",
+            "#252321",
+            "#efe3d5",
+            "#645444",
+            "#644c44"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP274197.jpg",
         "artistName": "Wen Zhengming",
@@ -1824,43 +144,13 @@
         "season": "Autumn"
     },
     {
-        "objectID": "41471",
-        "colorValue": [
-            113,
-            86,
-            58
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP328710.jpg",
-        "artistName": "Lü Ji",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Autumn Landscape with Herons and Ducks",
-        "date": 1467,
-        "url": "https://www.metmuseum.org/art/collection/search/41471",
-        "season": "Autumn"
-    },
-    {
-        "objectID": "435966",
-        "colorValue": [
-            98,
-            93,
-            85
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP332566.jpg",
-        "artistName": "Camille Corot",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Boatman among the Reeds",
-        "date": 1860,
-        "url": "https://www.metmuseum.org/art/collection/search/435966",
-        "season": "Autumn"
-    },
-    {
         "objectID": "39931",
         "colorValue": [
-            208,
-            190,
-            175
+            "#d0beaf",
+            "#5f534b",
+            "#8d7e73",
+            "#974e43",
+            "#7c6454"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP160517.jpg",
         "artistName": "Dai Benxiao",
@@ -1872,43 +162,31 @@
         "season": "Autumn"
     },
     {
-        "objectID": "436455",
+        "objectID": "435966",
         "colorValue": [
-            54,
-            37,
-            27
+            "#625d55",
+            "#ab9c8c",
+            "#1a1713",
+            "#929394",
+            "#9b9c92"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2138.jpg",
-        "artistName": "Théodore Gericault",
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP332566.jpg",
+        "artistName": "Camille Corot",
         "department": "European Paintings",
         "culture": "",
-        "title": "Evening: Landscape with an Aqueduct",
-        "date": 1818,
-        "url": "https://www.metmuseum.org/art/collection/search/436455",
-        "season": "Autumn"
-    },
-    {
-        "objectID": "10777",
-        "colorValue": [
-            57,
-            48,
-            35
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT10421.jpg",
-        "artistName": "Robert S. Duncanson",
-        "department": "The American Wing",
-        "culture": "American",
-        "title": "Landscape with Shepherd",
-        "date": 1852,
-        "url": "https://www.metmuseum.org/art/collection/search/10777",
+        "title": "Boatman among the Reeds",
+        "date": 1860,
+        "url": "https://www.metmuseum.org/art/collection/search/435966",
         "season": "Autumn"
     },
     {
         "objectID": "437094",
         "colorValue": [
-            100,
-            90,
-            62
+            "#645a3e",
+            "#c9c2a3",
+            "#17150d",
+            "#aaad9a",
+            "#9b9d96"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1982.jpg",
         "artistName": "Jean-François Millet",
@@ -1920,11 +198,31 @@
         "season": "Autumn"
     },
     {
+        "objectID": "436455",
+        "colorValue": [
+            "#36251b",
+            "#ddbe8e",
+            "#806747",
+            "#949789",
+            "#818a8c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2138.jpg",
+        "artistName": "Théodore Gericault",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Evening: Landscape with an Aqueduct",
+        "date": 1818,
+        "url": "https://www.metmuseum.org/art/collection/search/436455",
+        "season": "Autumn"
+    },
+    {
         "objectID": "437097",
         "colorValue": [
-            125,
-            111,
-            79
+            "#7d6f4f",
+            "#d3b888",
+            "#080705",
+            "#b9bca3",
+            "#aab2ac"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP124093.jpg",
         "artistName": "Jean-François Millet",
@@ -1936,43 +234,49 @@
         "season": "Autumn"
     },
     {
-        "objectID": "45673",
+        "objectID": "41471",
         "colorValue": [
-            116,
-            90,
-            64
+            "#71563a",
+            "#0c0906",
+            "#bb9976",
+            "#c7ab89",
+            "#a89b8c"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205315_CRD.jpg",
-        "artistName": "Unidentified Artist",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP328710.jpg",
+        "artistName": "Lü Ji",
         "department": "Asian Art",
         "culture": "China",
-        "title": "The Four Seasons",
-        "date": 1400,
-        "url": "https://www.metmuseum.org/art/collection/search/45673",
+        "title": "Autumn Landscape with Herons and Ducks",
+        "date": 1467,
+        "url": "https://www.metmuseum.org/art/collection/search/41471",
         "season": "Autumn"
     },
     {
-        "objectID": "44601",
+        "objectID": "45201",
         "colorValue": [
-            171,
-            157,
-            145
+            "#6e5437",
+            "#c4976f",
+            "#d2b790",
+            "#170705",
+            "#b4a08c"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205358_CRD.jpg",
-        "artistName": "Wen Zhengming",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP221036.jpg",
+        "artistName": "",
         "department": "Asian Art",
-        "culture": "China",
-        "title": "The Cassia Grove Studio",
-        "date": 1522,
-        "url": "https://www.metmuseum.org/art/collection/search/44601",
+        "culture": "Japan",
+        "title": "Descent and Return of Amida to Western Paradise with a Believer's Soul (Gōshō mandara)",
+        "date": 1290,
+        "url": "https://www.metmuseum.org/art/collection/search/45201",
         "season": "Autumn"
     },
     {
         "objectID": "45352",
         "colorValue": [
-            180,
-            153,
-            121
+            "#b49979",
+            "#9a5f3b",
+            "#dfd4b2",
+            "#51402d",
+            "#535546"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP221130.jpg",
         "artistName": "Yosa Buson",
@@ -1984,11 +288,31 @@
         "season": "Autumn"
     },
     {
+        "objectID": "45673",
+        "colorValue": [
+            "#745a40",
+            "#b69a78",
+            "#3f3226",
+            "#a48c6a",
+            "#9d816c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205315_CRD.jpg",
+        "artistName": "Unidentified Artist",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "The Four Seasons",
+        "date": 1400,
+        "url": "https://www.metmuseum.org/art/collection/search/45673",
+        "season": "Autumn"
+    },
+    {
         "objectID": "437433",
         "colorValue": [
-            126,
-            107,
-            76
+            "#7e6b4c",
+            "#1a1a14",
+            "#ceb18a",
+            "#a59da8",
+            "#b9bca4"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT215205.jpg",
         "artistName": "Auguste Renoir",
@@ -2002,9 +326,11 @@
     {
         "objectID": "45752",
         "colorValue": [
-            174,
-            157,
-            139
+            "#ae9d8b",
+            "#473e36",
+            "#6e635a",
+            "#a03939",
+            "#644d38"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205388_CRD.jpg",
         "artistName": "Tang Yin",
@@ -2016,43 +342,31 @@
         "season": "Autumn"
     },
     {
-        "objectID": "45201",
+        "objectID": "44601",
         "colorValue": [
-            110,
-            84,
-            55
+            "#ab9d91",
+            "#4b403b",
+            "#e0dacf",
+            "#5a554d",
+            "#645444"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP221036.jpg",
-        "artistName": "",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205358_CRD.jpg",
+        "artistName": "Wen Zhengming",
         "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Descent and Return of Amida to Western Paradise with a Believer's Soul (Gōshō mandara)",
-        "date": 1290,
-        "url": "https://www.metmuseum.org/art/collection/search/45201",
-        "season": "Autumn"
-    },
-    {
-        "objectID": "49072",
-        "colorValue": [
-            209,
-            193,
-            164
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP277624.jpg",
-        "artistName": "Hidaka Tetsuo",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Autumn Landscape",
-        "date": 1862,
-        "url": "https://www.metmuseum.org/art/collection/search/49072",
+        "culture": "China",
+        "title": "The Cassia Grove Studio",
+        "date": 1522,
+        "url": "https://www.metmuseum.org/art/collection/search/44601",
         "season": "Autumn"
     },
     {
         "objectID": "48994",
         "colorValue": [
-            199,
-            173,
-            138
+            "#c7ad8a",
+            "#373021",
+            "#814d33",
+            "#7f7058",
+            "#896138"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP277565.jpg",
         "artistName": "Ike (Tokuyama) Gyokuran",
@@ -2064,11 +378,31 @@
         "season": "Autumn"
     },
     {
+        "objectID": "49072",
+        "colorValue": [
+            "#d1c1a4",
+            "#0f0f11",
+            "#5b6664",
+            "#6c7b7e",
+            "#818c89"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP277624.jpg",
+        "artistName": "Hidaka Tetsuo",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Autumn Landscape",
+        "date": 1862,
+        "url": "https://www.metmuseum.org/art/collection/search/49072",
+        "season": "Autumn"
+    },
+    {
         "objectID": "49113",
         "colorValue": [
-            187,
-            170,
-            155
+            "#bbaa9b",
+            "#4d433d",
+            "#776a60",
+            "#605750",
+            "#625444"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161065.jpg",
         "artistName": "Wang Jian",
@@ -2082,9 +416,11 @@
     {
         "objectID": "45681",
         "colorValue": [
-            160,
-            129,
-            95
+            "#a0815f",
+            "#f1ddc9",
+            "#584532",
+            "#5b5444",
+            "#e7c7a8"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP153554.jpg",
         "artistName": "Unidentified Artist",
@@ -2096,27 +432,13 @@
         "season": "Autumn"
     },
     {
-        "objectID": "49134",
-        "colorValue": [
-            173,
-            155,
-            136
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205858_CRD.jpg",
-        "artistName": "Liu Yu",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Traveling Amid Streams and Mountains",
-        "date": 1680,
-        "url": "https://www.metmuseum.org/art/collection/search/49134",
-        "season": "Autumn"
-    },
-    {
         "objectID": "49153",
         "colorValue": [
-            170,
-            151,
-            129
+            "#aa9781",
+            "#4a3e31",
+            "#eee3cd",
+            "#67543b",
+            "#664b36"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP160345.jpg",
         "artistName": "Unidentified Artist",
@@ -2128,59 +450,31 @@
         "season": "Autumn"
     },
     {
-        "objectID": "49173",
+        "objectID": "49134",
         "colorValue": [
-            216,
-            200,
-            183
+            "#ad9b88",
+            "#3b322d",
+            "#695c52",
+            "#54433c",
+            "#584c3b"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP143725_CRD.jpg",
-        "artistName": "Shitao (Zhu Ruoji)",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205858_CRD.jpg",
+        "artistName": "Liu Yu",
         "department": "Asian Art",
         "culture": "China",
-        "title": "Returning Home",
-        "date": 1685,
-        "url": "https://www.metmuseum.org/art/collection/search/49173",
-        "season": "Autumn"
-    },
-    {
-        "objectID": "49178",
-        "colorValue": [
-            47,
-            46,
-            44
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13954-002.jpg",
-        "artistName": "Shitao (Zhu Ruoji)",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Drunk in Autumn Woods",
-        "date": 1692,
-        "url": "https://www.metmuseum.org/art/collection/search/49178",
-        "season": "Autumn"
-    },
-    {
-        "objectID": "51417",
-        "colorValue": [
-            89,
-            67,
-            46
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP216518_CRD.jpg",
-        "artistName": "",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Autumn Landscape",
-        "date": 1368,
-        "url": "https://www.metmuseum.org/art/collection/search/51417",
+        "title": "Traveling Amid Streams and Mountains",
+        "date": 1680,
+        "url": "https://www.metmuseum.org/art/collection/search/49134",
         "season": "Autumn"
     },
     {
         "objectID": "49157",
         "colorValue": [
-            192,
-            181,
-            167
+            "#c0b5a7",
+            "#423b38",
+            "#766f69",
+            "#5d524e",
+            "#645c4b"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP204417_CRD.jpg",
         "artistName": "Wang Hui",
@@ -2192,27 +486,49 @@
         "season": "Autumn"
     },
     {
-        "objectID": "51769",
+        "objectID": "51417",
         "colorValue": [
-            203,
-            189,
-            174
+            "#59432e",
+            "#baac9b",
+            "#a19285",
+            "#a39c88",
+            "#211812"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP203110_CRD.jpg",
-        "artistName": "Luo Mu",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP216518_CRD.jpg",
+        "artistName": "",
         "department": "Asian Art",
         "culture": "China",
-        "title": "River Landscape in Autumn",
-        "date": 1661,
-        "url": "https://www.metmuseum.org/art/collection/search/51769",
+        "title": "Autumn Landscape",
+        "date": 1368,
+        "url": "https://www.metmuseum.org/art/collection/search/51417",
+        "season": "Autumn"
+    },
+    {
+        "objectID": "49178",
+        "colorValue": [
+            "#2f2e2c",
+            "#d5cdb6",
+            "#a19789",
+            "#b9b5a6",
+            "#acacac"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13954-002.jpg",
+        "artistName": "Shitao (Zhu Ruoji)",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Drunk in Autumn Woods",
+        "date": 1692,
+        "url": "https://www.metmuseum.org/art/collection/search/49178",
         "season": "Autumn"
     },
     {
         "objectID": "65628",
         "colorValue": [
-            17,
-            18,
-            18
+            "#111212",
+            "#dcc4ac",
+            "#a0856e",
+            "#745748",
+            "#816651"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13189-002_crd.jpg",
         "artistName": "Various Artists",
@@ -2224,11 +540,31 @@
         "season": "Autumn"
     },
     {
+        "objectID": "49173",
+        "colorValue": [
+            "#d8c8b7",
+            "#5d5855",
+            "#94867d",
+            "#c55354",
+            "#97745c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP143725_CRD.jpg",
+        "artistName": "Shitao (Zhu Ruoji)",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Returning Home",
+        "date": 1685,
+        "url": "https://www.metmuseum.org/art/collection/search/49173",
+        "season": "Autumn"
+    },
+    {
         "objectID": "679188",
         "colorValue": [
-            132,
-            113,
-            79
+            "#84714f",
+            "#192a2e",
+            "#bcbab6",
+            "#4f2e0e",
+            "#b9b4a2"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/LC-2015_224b_2015_sr1-001.jpg",
         "artistName": "Unidentified Artist",
@@ -2240,11 +576,31 @@
         "season": "Autumn"
     },
     {
+        "objectID": "51769",
+        "colorValue": [
+            "#cbbdae",
+            "#57473c",
+            "#81766f",
+            "#635d55",
+            "#816144"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP203110_CRD.jpg",
+        "artistName": "Luo Mu",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "River Landscape in Autumn",
+        "date": 1661,
+        "url": "https://www.metmuseum.org/art/collection/search/51769",
+        "season": "Autumn"
+    },
+    {
         "objectID": "670943",
         "colorValue": [
-            168,
-            139,
-            104
+            "#a88b68",
+            "#443e34",
+            "#845b32",
+            "#e0c19c",
+            "#833629"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-15661-002.jpg",
         "artistName": "Nukina Kaioku",
@@ -2258,9 +614,11 @@
     {
         "objectID": "701452",
         "colorValue": [
-            106,
-            98,
-            79
+            "#6a624f",
+            "#221f1a",
+            "#b19e6e",
+            "#392f22",
+            "#9e9e8e"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/LC-2015_788_sr1_03.jpg",
         "artistName": "Wang Jian",
@@ -2272,11 +630,1939 @@
         "season": "Autumn"
     },
     {
+        "objectID": "10207",
+        "colorValue": [
+            "#a2856b",
+            "#321f19",
+            "#593824",
+            "#d9c7be",
+            "#e0c5a9"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2101.jpg",
+        "artistName": "William Bradford",
+        "department": "The American Wing",
+        "culture": "American",
+        "title": "An Arctic Summer: Boring Through the Pack in Melville Bay",
+        "date": 1871,
+        "url": "https://www.metmuseum.org/art/collection/search/10207",
+        "season": "Summer"
+    },
+    {
+        "objectID": "10154",
+        "colorValue": [
+            "#4b442a",
+            "#d0d6d3",
+            "#a6c2ce",
+            "#949ca2",
+            "#9d8159"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT82.jpg",
+        "artistName": "Albert Bierstadt",
+        "department": "The American Wing",
+        "culture": "American",
+        "title": "The Rocky Mountains, Lander's Peak",
+        "date": 1863,
+        "url": "https://www.metmuseum.org/art/collection/search/10154",
+        "season": "Summer"
+    },
+    {
+        "objectID": "10946",
+        "colorValue": [
+            "#d8bf95",
+            "#37120a",
+            "#6e3217",
+            "#9c6d50",
+            "#a16523"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT81.jpg",
+        "artistName": "Sanford Robinson Gifford",
+        "department": "The American Wing",
+        "culture": "American",
+        "title": "A Gorge in the Mountains (Kauterskill Clove)",
+        "date": 1862,
+        "url": "https://www.metmuseum.org/art/collection/search/10946",
+        "season": "Summer"
+    },
+    {
+        "objectID": "11317",
+        "colorValue": [
+            "#b3ab90",
+            "#2a180f",
+            "#5e3816",
+            "#7e612b",
+            "#707262"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/ap74.25.jpg",
+        "artistName": "John Frederick Kensett",
+        "department": "The American Wing",
+        "culture": "American",
+        "title": "October in the Marshes",
+        "date": 1872,
+        "url": "https://www.metmuseum.org/art/collection/search/11317",
+        "season": "Summer"
+    },
+    {
+        "objectID": "10788",
+        "colorValue": [
+            "#b0b8af",
+            "#282316",
+            "#584826",
+            "#7e6d3c",
+            "#6f776c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/ap77.3.1.jpg",
+        "artistName": "Asher Brown Durand",
+        "department": "The American Wing",
+        "culture": "American",
+        "title": "High Point: Shandaken Mountains",
+        "date": 1853,
+        "url": "https://www.metmuseum.org/art/collection/search/10788",
+        "season": "Summer"
+    },
+    {
+        "objectID": "11318",
+        "colorValue": [
+            "#bdb7a5",
+            "#393224",
+            "#624a30",
+            "#706343",
+            "#747a67"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/ap74.38.jpg",
+        "artistName": "John Frederick Kensett",
+        "department": "The American Wing",
+        "culture": "American",
+        "title": "The Old Pine, Darien, Connecticut",
+        "date": 1872,
+        "url": "https://www.metmuseum.org/art/collection/search/11318",
+        "season": "Summer"
+    },
+    {
+        "objectID": "12802",
+        "colorValue": [
+            "#433729",
+            "#b7a9a2",
+            "#a89c8d",
+            "#86734f",
+            "#8e837d"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1984.252.1.jpg",
+        "artistName": "Jerome B. Thompson",
+        "department": "The American Wing",
+        "culture": "American",
+        "title": "Summer Flowers",
+        "date": 1859,
+        "url": "https://www.metmuseum.org/art/collection/search/12802",
+        "season": "Summer"
+    },
+    {
+        "objectID": "36131",
+        "colorValue": [
+            "#c2ac93",
+            "#392a20",
+            "#724d3f",
+            "#ebe2df",
+            "#7e5d41"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/1981_4_1a.jpg",
+        "artistName": "Gong Xian",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes with Poems",
+        "date": 1688,
+        "url": "https://www.metmuseum.org/art/collection/search/36131",
+        "season": "Summer"
+    },
+    {
+        "objectID": "36049",
+        "colorValue": [
+            "#8d7251",
+            "#594939",
+            "#3d352e",
+            "#4c342f",
+            "#4e3d24"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP201351_CRD.jpg",
+        "artistName": "Unidentified Artist",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Streams and Mountains Without End",
+        "date": 1600,
+        "url": "https://www.metmuseum.org/art/collection/search/36049",
+        "season": "Summer"
+    },
+    {
+        "objectID": "36027",
+        "colorValue": [
+            "#8c8782",
+            "#323335",
+            "#535353",
+            "#453b40",
+            "#45443b"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/13_220_123_O1_sf.jpg",
+        "artistName": "Zhang Geng",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscape After Wang Meng",
+        "date": 1759,
+        "url": "https://www.metmuseum.org/art/collection/search/36027",
+        "season": "Summer"
+    },
+    {
+        "objectID": "39915",
+        "colorValue": [
+            "#685a45",
+            "#d1b07c",
+            "#0b0b0b",
+            "#b3a485",
+            "#ab9989"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP226465.jpg",
+        "artistName": "Qu Ding",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Summer Mountains",
+        "date": 1040,
+        "url": "https://www.metmuseum.org/art/collection/search/39915",
+        "season": "Summer"
+    },
+    {
+        "objectID": "36135",
+        "colorValue": [
+            "#cbc1bc",
+            "#453d3c",
+            "#7f7673",
+            "#665a58",
+            "#6e645b"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT9400.jpg",
+        "artistName": "Wen Jia",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscape Dedicated to Xiang Yuanbian",
+        "date": 1578,
+        "url": "https://www.metmuseum.org/art/collection/search/36135",
+        "season": "Summer"
+    },
+    {
+        "objectID": "39959",
+        "colorValue": [
+            "#705539",
+            "#eaddc5",
+            "#d78e6e",
+            "#d8b292",
+            "#a47446"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP165265_CRD.jpg",
+        "artistName": "Yang Bangji",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "A Diplomatic Mission to the Jin",
+        "date": 1156,
+        "url": "https://www.metmuseum.org/art/collection/search/39959",
+        "season": "Summer"
+    },
+    {
+        "objectID": "40002",
+        "colorValue": [
+            "#4e4030",
+            "#c0ac85",
+            "#856c4c",
+            "#988064",
+            "#9c8c74"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP165244.jpg",
+        "artistName": "Unidentified Artist",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscape in the style of Fan Kuan",
+        "date": 1100,
+        "url": "https://www.metmuseum.org/art/collection/search/40002",
+        "season": "Summer"
+    },
+    {
+        "objectID": "41479",
+        "colorValue": [
+            "#ab9d8d",
+            "#393028",
+            "#675c51",
+            "#55433b",
+            "#564c3b"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP216493_94.jpg",
+        "artistName": "Dong Qichang",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Invitation to Reclusion at Jingxi",
+        "date": 1611,
+        "url": "https://www.metmuseum.org/art/collection/search/41479",
+        "season": "Summer"
+    },
+    {
+        "objectID": "36436",
+        "colorValue": [
+            "#d2c8b9",
+            "#938a7d",
+            "#605b53",
+            "#87645a",
+            "#827464"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP162771.jpg",
+        "artistName": "Zhang Feng",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes",
+        "date": 1644,
+        "url": "https://www.metmuseum.org/art/collection/search/36436",
+        "season": "Summer"
+    },
+    {
+        "objectID": "40007",
+        "colorValue": [
+            "#9a8574",
+            "#cca56d",
+            "#c08b40",
+            "#5e534b",
+            "#944a42"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP212993_4_CRD.jpg",
+        "artistName": "Mi Youren",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Cloudy Mountains",
+        "date": 1127,
+        "url": "https://www.metmuseum.org/art/collection/search/40007",
+        "season": "Summer"
+    },
+    {
+        "objectID": "40062",
+        "colorValue": [
+            "#ede4d0",
+            "#756042",
+            "#98846c",
+            "#9c8c6c",
+            "#bc9c64"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP154096.jpg",
+        "artistName": "Yan Ciyu",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Hermitage by a Pine-covered Bluff",
+        "date": 1164,
+        "url": "https://www.metmuseum.org/art/collection/search/40062",
+        "season": "Summer"
+    },
+    {
+        "objectID": "435655",
+        "colorValue": [
+            "#402b16",
+            "#8b8c83",
+            "#9d9e8f",
+            "#b4ac96",
+            "#847760"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143195.jpg",
+        "artistName": "Nicolaes Berchem",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Rest",
+        "date": 1644,
+        "url": "https://www.metmuseum.org/art/collection/search/435655",
+        "season": "Summer"
+    },
+    {
+        "objectID": "42493",
+        "colorValue": [
+            "#9e8665",
+            "#130f0e",
+            "#4e3a23",
+            "#e7dac0",
+            "#f1d2a0"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT8176.jpg",
+        "artistName": "",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Eight Views of the Xiao and Xiang Rivers",
+        "date": 1500,
+        "url": "https://www.metmuseum.org/art/collection/search/42493",
+        "season": "Summer"
+    },
+    {
+        "objectID": "435684",
+        "colorValue": [
+            "#434343",
+            "#d8d8d8",
+            "#8f8f8f",
+            "#afafaf",
+            "#a4a4a4"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/ep26.100.bw.R.jpg",
+        "artistName": "Arnold Böcklin",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Roman Landscape",
+        "date": 1850,
+        "url": "https://www.metmuseum.org/art/collection/search/435684",
+        "season": "Summer"
+    },
+    {
+        "objectID": "42347",
+        "colorValue": [
+            "#9e8665",
+            "#130f0e",
+            "#4e3a23",
+            "#e7dac0",
+            "#f1d2a0"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT8176.jpg",
+        "artistName": "",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Eight Views of the Xiao and Xiang Rivers",
+        "date": 1500,
+        "url": "https://www.metmuseum.org/art/collection/search/42347",
+        "season": "Summer"
+    },
+    {
+        "objectID": "435923",
+        "colorValue": [
+            "#3d3a2c",
+            "#786b56",
+            "#9f8d74",
+            "#7c8785",
+            "#8a958c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164805.jpg",
+        "artistName": "John Constable",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Stoke-by-Nayland",
+        "date": 1805,
+        "url": "https://www.metmuseum.org/art/collection/search/435923",
+        "season": "Summer"
+    },
+    {
+        "objectID": "435707",
+        "colorValue": [
+            "#b3b0a6",
+            "#201c12",
+            "#563e24",
+            "#75623d",
+            "#6a6c60"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164827.jpg",
+        "artistName": "Richard Parkes Bonington",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Roadside Halt",
+        "date": 1826,
+        "url": "https://www.metmuseum.org/art/collection/search/435707",
+        "season": "Summer"
+    },
+    {
+        "objectID": "435809",
+        "colorValue": [
+            "#987445",
+            "#281e11",
+            "#d8c8b3",
+            "#cab9a7",
+            "#5b2d0f"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP119115.jpg",
+        "artistName": "Pieter Bruegel the Elder",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "The Harvesters",
+        "date": 1565,
+        "url": "https://www.metmuseum.org/art/collection/search/435809",
+        "season": "Summer"
+    },
+    {
+        "objectID": "435879",
+        "colorValue": [
+            "#50645f",
+            "#beb4a4",
+            "#191312",
+            "#9bb6a5",
+            "#96a5b6"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1492.jpg",
+        "artistName": "Paul Cézanne",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "The Pool at Jas de Bouffan",
+        "date": 1885,
+        "url": "https://www.metmuseum.org/art/collection/search/435879",
+        "season": "Summer"
+    },
+    {
+        "objectID": "436060",
+        "colorValue": [
+            "#332314",
+            "#a0896f",
+            "#8a7a62",
+            "#765839",
+            "#876c5c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143164.jpg",
+        "artistName": "Abraham van Cuylenborch",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Bacchus and Nymphs in a Landscape",
+        "date": 1640,
+        "url": "https://www.metmuseum.org/art/collection/search/436060",
+        "season": "Summer"
+    },
+    {
+        "objectID": "436241",
+        "colorValue": [
+            "#d3c59d",
+            "#352212",
+            "#74471f",
+            "#987837",
+            "#f5f2dc"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP232030.jpg",
+        "artistName": "Jules Dupré",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Cows Crossing a Ford",
+        "date": 1836,
+        "url": "https://www.metmuseum.org/art/collection/search/436241",
+        "season": "Summer"
+    },
+    {
+        "objectID": "436083",
+        "colorValue": [
+            "#e9ddc9",
+            "#423c21",
+            "#8e7e4e",
+            "#aba47e",
+            "#a89c8c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/EP1038.jpg",
+        "artistName": "Charles-François Daubigny",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "A River Landscape with Storks",
+        "date": 1864,
+        "url": "https://www.metmuseum.org/art/collection/search/436083",
+        "season": "Summer"
+    },
+    {
+        "objectID": "436558",
+        "colorValue": [
+            "#7b7766",
+            "#1c190f",
+            "#504624",
+            "#bea581",
+            "#3f311b"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146495.jpg",
+        "artistName": "Jan van Goyen",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "View of Haarlem and the Haarlemmer Meer",
+        "date": 1646,
+        "url": "https://www.metmuseum.org/art/collection/search/436558",
+        "season": "Summer"
+    },
+    {
+        "objectID": "436441",
+        "colorValue": [
+            "#3d3221",
+            "#c1b59b",
+            "#9e8f7e",
+            "#b2ad95",
+            "#aca394"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123922.jpg",
+        "artistName": "Thomas Gainsborough",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Wooded Upland Landscape",
+        "date": 1783,
+        "url": "https://www.metmuseum.org/art/collection/search/436441",
+        "season": "Summer"
+    },
+    {
+        "objectID": "436455",
+        "colorValue": [
+            "#36251b",
+            "#ddbe8e",
+            "#806747",
+            "#949789",
+            "#818a8c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2138.jpg",
+        "artistName": "Théodore Gericault",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Evening: Landscape with an Aqueduct",
+        "date": 1818,
+        "url": "https://www.metmuseum.org/art/collection/search/436455",
+        "season": "Summer"
+    },
+    {
+        "objectID": "437102",
+        "colorValue": [
+            "#878a79",
+            "#282012",
+            "#413116",
+            "#615427",
+            "#b5b59b"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146459.jpg",
+        "artistName": "Pieter de Molijn",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Landscape with a Cottage",
+        "date": 1629,
+        "url": "https://www.metmuseum.org/art/collection/search/437102",
+        "season": "Summer"
+    },
+    {
+        "objectID": "437191",
+        "colorValue": [
+            "#362f20",
+            "#8c9078",
+            "#a4926c",
+            "#768174",
+            "#7c6e52"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146446.jpg",
+        "artistName": "Aert van der Neer",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Landscape at Sunset",
+        "date": 1650,
+        "url": "https://www.metmuseum.org/art/collection/search/437191",
+        "season": "Summer"
+    },
+    {
+        "objectID": "437323",
+        "colorValue": [
+            "#8d948b",
+            "#20211a",
+            "#423e2c",
+            "#585136",
+            "#c5b798"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145952.jpg",
+        "artistName": "Frans Post",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "A Brazilian Landscape",
+        "date": 1650,
+        "url": "https://www.metmuseum.org/art/collection/search/437323",
+        "season": "Summer"
+    },
+    {
+        "objectID": "436952",
+        "colorValue": [
+            "#3a4a3f",
+            "#c8c5b6",
+            "#9ba4ab",
+            "#8d9084",
+            "#aab4b8"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1931.jpg",
+        "artistName": "Edouard Manet",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "The Funeral",
+        "date": 1867,
+        "url": "https://www.metmuseum.org/art/collection/search/436952",
+        "season": "Summer"
+    },
+    {
+        "objectID": "437316",
+        "colorValue": [
+            "#43432c",
+            "#bdaf95",
+            "#958161",
+            "#a49f97",
+            "#aab692"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1043.jpg",
+        "artistName": "Camille Pissarro",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Côte des Grouettes, near Pontoise",
+        "date": 1878,
+        "url": "https://www.metmuseum.org/art/collection/search/437316",
+        "season": "Summer"
+    },
+    {
+        "objectID": "437516",
+        "colorValue": [
+            "#241d12",
+            "#d5c6a9",
+            "#544527",
+            "#806e3f",
+            "#7e7058"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/ep3.28.R.jpg",
+        "artistName": "Théodore Rousseau",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "An Old Chapel in a Valley",
+        "date": 1832,
+        "url": "https://www.metmuseum.org/art/collection/search/437516",
+        "season": "Summer"
+    },
+    {
+        "objectID": "437517",
+        "colorValue": [
+            "#373319",
+            "#919da3",
+            "#8d8350",
+            "#adb5b4",
+            "#c5c3a8"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT240033.jpg",
+        "artistName": "Théodore Rousseau",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "A Path among the Rocks",
+        "date": 1832,
+        "url": "https://www.metmuseum.org/art/collection/search/437517",
+        "season": "Summer"
+    },
+    {
+        "objectID": "437547",
+        "colorValue": [
+            "#767763",
+            "#272418",
+            "#cdb691",
+            "#adbca8",
+            "#acb4b4"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146453.jpg",
+        "artistName": "Jacob van Ruisdael",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Grainfields",
+        "date": 1664,
+        "url": "https://www.metmuseum.org/art/collection/search/437547",
+        "season": "Summer"
+    },
+    {
+        "objectID": "437549",
+        "colorValue": [
+            "#69675c",
+            "#c2ae8c",
+            "#1a1713",
+            "#8ea0ac",
+            "#acb4a4"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145911.jpg",
+        "artistName": "Jacob van Ruisdael",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Wheat Fields",
+        "date": 1665,
+        "url": "https://www.metmuseum.org/art/collection/search/437549",
+        "season": "Summer"
+    },
+    {
+        "objectID": "437586",
+        "colorValue": [
+            "#7a796f",
+            "#282214",
+            "#cdc1a4",
+            "#aeb8bc",
+            "#b4c4ba"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143152.jpg",
+        "artistName": "Salomon van Ruysdael",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "A Country Road",
+        "date": 1648,
+        "url": "https://www.metmuseum.org/art/collection/search/437586",
+        "season": "Summer"
+    },
+    {
+        "objectID": "437760",
+        "colorValue": [
+            "#a49d8e",
+            "#2b2319",
+            "#563a20",
+            "#6c532f",
+            "#d6b58f"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143202.jpg",
+        "artistName": "Jacob van Strij",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Landscape with Cattle",
+        "date": 1795,
+        "url": "https://www.metmuseum.org/art/collection/search/437760",
+        "season": "Summer"
+    },
+    {
+        "objectID": "437436",
+        "colorValue": [
+            "#445342",
+            "#c3bdad",
+            "#989482",
+            "#a0a9ae",
+            "#a9b4b4"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP265242.jpg",
+        "artistName": "Auguste Renoir",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "A Road in Louveciennes",
+        "date": 1865,
+        "url": "https://www.metmuseum.org/art/collection/search/437436",
+        "season": "Summer"
+    },
+    {
+        "objectID": "437683",
+        "colorValue": [
+            "#bfbbbc",
+            "#2f413f",
+            "#72807b",
+            "#777750",
+            "#644d46"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1870.jpg",
+        "artistName": "Alfred Sisley",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Sahurs Meadows in Morning Sun",
+        "date": 1894,
+        "url": "https://www.metmuseum.org/art/collection/search/437683",
+        "season": "Summer"
+    },
+    {
+        "objectID": "44876",
+        "colorValue": [
+            "#8c8c8c",
+            "#222222",
+            "#d7d7d7",
+            "#4c4c4c",
+            "#444444"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/14_76_15.jpg",
+        "artistName": "Kano Tansui",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Isle of Immortals with Flanking Chinese Landscapes (Eight Views of Xiao and Xiang)",
+        "date": 1800,
+        "url": "https://www.metmuseum.org/art/collection/search/44876",
+        "season": "Summer"
+    },
+    {
+        "objectID": "44759",
+        "colorValue": [
+            "#c2bdb1",
+            "#42392d",
+            "#807769",
+            "#6c604f",
+            "#665245"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/1985_121_A_sf.jpg",
+        "artistName": "Chen Hongshou",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes, Figures, and Flowers",
+        "date": 1618,
+        "url": "https://www.metmuseum.org/art/collection/search/44759",
+        "season": "Summer"
+    },
+    {
+        "objectID": "45673",
+        "colorValue": [
+            "#745a40",
+            "#b69a78",
+            "#3f3226",
+            "#a48c6a",
+            "#9d816c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205315_CRD.jpg",
+        "artistName": "Unidentified Artist",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "The Four Seasons",
+        "date": 1400,
+        "url": "https://www.metmuseum.org/art/collection/search/45673",
+        "season": "Summer"
+    },
+    {
+        "objectID": "45201",
+        "colorValue": [
+            "#6e5437",
+            "#c4976f",
+            "#d2b790",
+            "#170705",
+            "#b4a08c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP221036.jpg",
+        "artistName": "",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Descent and Return of Amida to Western Paradise with a Believer's Soul (Gōshō mandara)",
+        "date": 1290,
+        "url": "https://www.metmuseum.org/art/collection/search/45201",
+        "season": "Summer"
+    },
+    {
+        "objectID": "45698",
+        "colorValue": [
+            "#c2a47c",
+            "#110e0d",
+            "#f5e6c8",
+            "#60492e",
+            "#775a33"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP231173.jpg",
+        "artistName": "Kano Tan'yū",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Winter Landscape",
+        "date": 1662,
+        "url": "https://www.metmuseum.org/art/collection/search/45698",
+        "season": "Summer"
+    },
+    {
+        "objectID": "438738",
+        "colorValue": [
+            "#7d7551",
+            "#dfcdc0",
+            "#2a3627",
+            "#d0a479",
+            "#4a382c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP116768.jpg",
+        "artistName": "Camille Pissarro",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Haystacks, Morning, Éragny",
+        "date": 1899,
+        "url": "https://www.metmuseum.org/art/collection/search/438738",
+        "season": "Summer"
+    },
+    {
+        "objectID": "45738",
+        "colorValue": [
+            "#8c8c8c",
+            "#222222",
+            "#dbdbdb",
+            "#444444",
+            "#4c4c4c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/14_76_16.jpg",
+        "artistName": "Kano Tansui",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "View of Mt. Horai",
+        "date": 1800,
+        "url": "https://www.metmuseum.org/art/collection/search/45738",
+        "season": "Summer"
+    },
+    {
+        "objectID": "45700",
+        "colorValue": [
+            "#c1a27a",
+            "#110e0d",
+            "#5e4a38",
+            "#f2e5c7",
+            "#795b32"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP231177.jpg",
+        "artistName": "Kano Tan'yū",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Summer Landscape",
+        "date": 1662,
+        "url": "https://www.metmuseum.org/art/collection/search/45700",
+        "season": "Summer"
+    },
+    {
+        "objectID": "48991",
+        "colorValue": [
+            "#ad965f",
+            "#402b0a",
+            "#e5d4b2",
+            "#ecd699",
+            "#544c1b"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/64_55_2.JPG",
+        "artistName": "Ike Taiga",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Landscapes in Summer and Winter",
+        "date": 1723,
+        "url": "https://www.metmuseum.org/art/collection/search/48991",
+        "season": "Summer"
+    },
+    {
+        "objectID": "45650",
+        "colorValue": [
+            "#ccbaa0",
+            "#403830",
+            "#897564",
+            "#874e40",
+            "#745f49"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP157322_CRD.jpg",
+        "artistName": "Zhao Yuan",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscape",
+        "date": 1367,
+        "url": "https://www.metmuseum.org/art/collection/search/45650",
+        "season": "Summer"
+    },
+    {
+        "objectID": "437980",
+        "colorValue": [
+            "#3b4b34",
+            "#c9c7a5",
+            "#91bfaa",
+            "#8e8754",
+            "#79a1a3"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP130999.jpg",
+        "artistName": "Vincent van Gogh",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Cypresses",
+        "date": 1889,
+        "url": "https://www.metmuseum.org/art/collection/search/437980",
+        "season": "Summer"
+    },
+    {
+        "objectID": "49158",
+        "colorValue": [
+            "#d1cabd",
+            "#928a80",
+            "#564e47",
+            "#847362",
+            "#745f57"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP153654_CRD.jpg",
+        "artistName": "Wu Li",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Whiling Away the Summer",
+        "date": 1679,
+        "url": "https://www.metmuseum.org/art/collection/search/49158",
+        "season": "Summer"
+    },
+    {
+        "objectID": "51850",
+        "colorValue": [
+            "#a9aca5",
+            "#282929",
+            "#656565",
+            "#55554b",
+            "#564b51"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/62_102.jpg",
+        "artistName": "Dong Qichang",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Summer Landscape",
+        "date": 1555,
+        "url": "https://www.metmuseum.org/art/collection/search/51850",
+        "season": "Summer"
+    },
+    {
+        "objectID": "48990",
+        "colorValue": [
+            "#a99659",
+            "#332809",
+            "#ebdfbd",
+            "#efd591",
+            "#574111"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/64_55_1.JPG",
+        "artistName": "Ike Taiga",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Landscapes in Summer and Winter",
+        "date": 1723,
+        "url": "https://www.metmuseum.org/art/collection/search/48990",
+        "season": "Summer"
+    },
+    {
+        "objectID": "49017",
+        "colorValue": [
+            "#cfbba4",
+            "#3e362c",
+            "#887665",
+            "#a54041",
+            "#6f5f48"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161053.jpg",
+        "artistName": "Yun Xiang",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes after old masters",
+        "date": 1638,
+        "url": "https://www.metmuseum.org/art/collection/search/49017",
+        "season": "Summer"
+    },
+    {
+        "objectID": "49227",
+        "colorValue": [
+            "#937861",
+            "#0e0b0c",
+            "#c6b0a1",
+            "#cfa482",
+            "#4c3225"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP274140.jpg",
+        "artistName": "Yuan Jiang",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "The Palace of Nine Perfections",
+        "date": 1691,
+        "url": "https://www.metmuseum.org/art/collection/search/49227",
+        "season": "Summer"
+    },
+    {
+        "objectID": "57327",
+        "colorValue": [
+            "#9b8062",
+            "#372817",
+            "#5f4228",
+            "#645039",
+            "#6c291b"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/52_160_1_O2.jpg",
+        "artistName": "Shibata Zeshin",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Maple Viewing at Kai'anji Temple",
+        "date": 1850,
+        "url": "https://www.metmuseum.org/art/collection/search/57327",
+        "season": "Summer"
+    },
+    {
+        "objectID": "53451",
+        "colorValue": [
+            "#c0ad94",
+            "#0c0c0c",
+            "#9a6e34",
+            "#604630",
+            "#6f6458"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-164.jpg",
+        "artistName": "Sakaki Hyakusen",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Snowy Landscape",
+        "date": 1620,
+        "url": "https://www.metmuseum.org/art/collection/search/53451",
+        "season": "Summer"
+    },
+    {
+        "objectID": "53463",
+        "colorValue": [
+            "#918a7e",
+            "#0b0c0d",
+            "#e2c59c",
+            "#4b3f37",
+            "#5f4f3a"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-233.jpg",
+        "artistName": "Yamamoto Baiitsu",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Landscapes of the Four Seasons",
+        "date": 1700,
+        "url": "https://www.metmuseum.org/art/collection/search/53463",
+        "season": "Summer"
+    },
+    {
+        "objectID": "65628",
+        "colorValue": [
+            "#111212",
+            "#dcc4ac",
+            "#a0856e",
+            "#745748",
+            "#816651"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13189-002_crd.jpg",
+        "artistName": "Various Artists",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Album of Painting and Calligraphy for Maoshu",
+        "date": 1666,
+        "url": "https://www.metmuseum.org/art/collection/search/65628",
+        "season": "Summer"
+    },
+    {
+        "objectID": "64872",
+        "colorValue": [
+            "#cbae87",
+            "#201f1c",
+            "#7f7766",
+            "#856737",
+            "#784a33"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP359324_crd.jpg",
+        "artistName": "Genki (Komai Ki)",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Scenes of the Four Seasons in Kyoto",
+        "date": 1778,
+        "url": "https://www.metmuseum.org/art/collection/search/64872",
+        "season": "Summer"
+    },
+    {
+        "objectID": "670542",
+        "colorValue": [
+            "#a77d56",
+            "#0c0c0c",
+            "#e0c8a0",
+            "#5d2a1f",
+            "#b1b2ad"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-187.jpg",
+        "artistName": "Ike Taiga",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Evening Glow in a Mountain Village and Calligraphy",
+        "date": 1767,
+        "url": "https://www.metmuseum.org/art/collection/search/670542",
+        "season": "Summer"
+    },
+    {
+        "objectID": "10481",
+        "colorValue": [
+            "#52401b",
+            "#cdc4b5",
+            "#a8b6c0",
+            "#9b9ca0",
+            "#9a7e47"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT78.jpg",
+        "artistName": "Frederic Edwin Church",
+        "department": "The American Wing",
+        "culture": "American",
+        "title": "Heart of the Andes",
+        "date": 1859,
+        "url": "https://www.metmuseum.org/art/collection/search/10481",
+        "season": "Spring"
+    },
+    {
+        "objectID": "11234",
+        "colorValue": [
+            "#6c7263",
+            "#212c16",
+            "#cbc1a5",
+            "#97a6b4",
+            "#b2bcb7"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT98.jpg",
+        "artistName": "George Inness",
+        "department": "The American Wing",
+        "culture": "American",
+        "title": "Spring Blossoms, Montclair, New Jersey",
+        "date": 1888,
+        "url": "https://www.metmuseum.org/art/collection/search/11234",
+        "season": "Spring"
+    },
+    {
+        "objectID": "36026",
+        "colorValue": [
+            "#7e5f2c",
+            "#332209",
+            "#bf9e65",
+            "#cfb88e",
+            "#b0a092"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/13_220_118_O.jpg",
+        "artistName": "Wang Wenzhi",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Spring Ablutions at the Orchid Pavilion",
+        "date": 1644,
+        "url": "https://www.metmuseum.org/art/collection/search/36026",
+        "season": "Spring"
+    },
+    {
+        "objectID": "36131",
+        "colorValue": [
+            "#c2ac93",
+            "#392a20",
+            "#724d3f",
+            "#ebe2df",
+            "#7e5d41"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/1981_4_1a.jpg",
+        "artistName": "Gong Xian",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes with Poems",
+        "date": 1688,
+        "url": "https://www.metmuseum.org/art/collection/search/36131",
+        "season": "Spring"
+    },
+    {
+        "objectID": "36188",
+        "colorValue": [
+            "#e0d0c0",
+            "#61554f",
+            "#988675",
+            "#81705a",
+            "#736c65"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP162538.jpg",
+        "artistName": "Wu Shixian",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Misty Rain on the River in Spring",
+        "date": 1816,
+        "url": "https://www.metmuseum.org/art/collection/search/36188",
+        "season": "Spring"
+    },
+    {
+        "objectID": "41479",
+        "colorValue": [
+            "#ab9d8d",
+            "#393028",
+            "#675c51",
+            "#55433b",
+            "#564c3b"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP216493_94.jpg",
+        "artistName": "Dong Qichang",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Invitation to Reclusion at Jingxi",
+        "date": 1611,
+        "url": "https://www.metmuseum.org/art/collection/search/41479",
+        "season": "Spring"
+    },
+    {
+        "objectID": "40091",
+        "colorValue": [
+            "#9f8362",
+            "#f3e1c2",
+            "#483b30",
+            "#575045",
+            "#e6cda3"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP153518.jpg",
+        "artistName": "Unidentified Artist",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Early spring landscape",
+        "date": 1234,
+        "url": "https://www.metmuseum.org/art/collection/search/40091",
+        "season": "Spring"
+    },
+    {
+        "objectID": "435573",
+        "colorValue": [
+            "#363224",
+            "#c5ae88",
+            "#7c6b46",
+            "#989e8d",
+            "#838d88"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8028.jpg",
+        "artistName": "Jacopo Amigoni",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Flora and Zephyr",
+        "date": 1730,
+        "url": "https://www.metmuseum.org/art/collection/search/435573",
+        "season": "Spring"
+    },
+    {
+        "objectID": "42347",
+        "colorValue": [
+            "#9e8665",
+            "#130f0e",
+            "#4e3a23",
+            "#e7dac0",
+            "#f1d2a0"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT8176.jpg",
+        "artistName": "",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Eight Views of the Xiao and Xiang Rivers",
+        "date": 1500,
+        "url": "https://www.metmuseum.org/art/collection/search/42347",
+        "season": "Spring"
+    },
+    {
+        "objectID": "435809",
+        "colorValue": [
+            "#987445",
+            "#281e11",
+            "#d8c8b3",
+            "#cab9a7",
+            "#5b2d0f"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP119115.jpg",
+        "artistName": "Pieter Bruegel the Elder",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "The Harvesters",
+        "date": 1565,
+        "url": "https://www.metmuseum.org/art/collection/search/435809",
+        "season": "Spring"
+    },
+    {
+        "objectID": "36436",
+        "colorValue": [
+            "#d2c8b9",
+            "#938a7d",
+            "#605b53",
+            "#87645a",
+            "#827464"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP162771.jpg",
+        "artistName": "Zhang Feng",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes",
+        "date": 1644,
+        "url": "https://www.metmuseum.org/art/collection/search/36436",
+        "season": "Spring"
+    },
+    {
+        "objectID": "436085",
+        "colorValue": [
+            "#262816",
+            "#9cb199",
+            "#c0c49f",
+            "#827d55",
+            "#7e9b8f"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2145.jpg",
+        "artistName": "Charles-François Daubigny",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Apple Blossoms",
+        "date": 1873,
+        "url": "https://www.metmuseum.org/art/collection/search/436085",
+        "season": "Spring"
+    },
+    {
+        "objectID": "437097",
+        "colorValue": [
+            "#7d6f4f",
+            "#d3b888",
+            "#080705",
+            "#b9bca3",
+            "#aab2ac"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP124093.jpg",
+        "artistName": "Jean-François Millet",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Haystacks: Autumn",
+        "date": 1869,
+        "url": "https://www.metmuseum.org/art/collection/search/437097",
+        "season": "Spring"
+    },
+    {
+        "objectID": "42346",
+        "colorValue": [
+            "#907a63",
+            "#39302a",
+            "#54392c",
+            "#5f452b",
+            "#d5b696"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT8029.jpg",
+        "artistName": "Kenkō Shōkei",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Landscape with Pavilion",
+        "date": 1478,
+        "url": "https://www.metmuseum.org/art/collection/search/42346",
+        "season": "Spring"
+    },
+    {
+        "objectID": "437307",
+        "colorValue": [
+            "#85864c",
+            "#d4d1cb",
+            "#232f13",
+            "#d9c684",
+            "#4c3d1d"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1866.jpg",
+        "artistName": "Camille Pissarro",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Poplars, Éragny",
+        "date": 1895,
+        "url": "https://www.metmuseum.org/art/collection/search/437307",
+        "season": "Spring"
+    },
+    {
+        "objectID": "438820",
+        "colorValue": [
+            "#60491f",
+            "#7e8a81",
+            "#c6944e",
+            "#150c05",
+            "#9fa58c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1967.jpg",
+        "artistName": "Gustave Courbet",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Young Ladies of the Village",
+        "date": 1851,
+        "url": "https://www.metmuseum.org/art/collection/search/438820",
+        "season": "Spring"
+    },
+    {
+        "objectID": "437316",
+        "colorValue": [
+            "#43432c",
+            "#bdaf95",
+            "#958161",
+            "#a49f97",
+            "#aab692"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1043.jpg",
+        "artistName": "Camille Pissarro",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Côte des Grouettes, near Pontoise",
+        "date": 1878,
+        "url": "https://www.metmuseum.org/art/collection/search/437316",
+        "season": "Spring"
+    },
+    {
+        "objectID": "437685",
+        "colorValue": [
+            "#4d534c",
+            "#d0cdc0",
+            "#969fb3",
+            "#abbbc3",
+            "#998e7c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1871.jpg",
+        "artistName": "Alfred Sisley",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "The Road from Versailles to Louveciennes",
+        "date": 1859,
+        "url": "https://www.metmuseum.org/art/collection/search/437685",
+        "season": "Spring"
+    },
+    {
+        "objectID": "438821",
+        "colorValue": [
+            "#71715c",
+            "#caa670",
+            "#1d362d",
+            "#a0a8b0",
+            "#afbea9"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1025.jpg",
+        "artistName": "Paul Gauguin",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Ia Orana Maria (Hail Mary)",
+        "date": 1891,
+        "url": "https://www.metmuseum.org/art/collection/search/438821",
+        "season": "Spring"
+    },
+    {
+        "objectID": "45673",
+        "colorValue": [
+            "#745a40",
+            "#b69a78",
+            "#3f3226",
+            "#a48c6a",
+            "#9d816c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205315_CRD.jpg",
+        "artistName": "Unidentified Artist",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "The Four Seasons",
+        "date": 1400,
+        "url": "https://www.metmuseum.org/art/collection/search/45673",
+        "season": "Spring"
+    },
+    {
+        "objectID": "45738",
+        "colorValue": [
+            "#8c8c8c",
+            "#222222",
+            "#dbdbdb",
+            "#444444",
+            "#4c4c4c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/14_76_16.jpg",
+        "artistName": "Kano Tansui",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "View of Mt. Horai",
+        "date": 1800,
+        "url": "https://www.metmuseum.org/art/collection/search/45738",
+        "season": "Spring"
+    },
+    {
+        "objectID": "45647",
+        "colorValue": [
+            "#b3a58f",
+            "#3b362d",
+            "#e2d7ba",
+            "#5f5443",
+            "#5c4b42"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP235481.jpg",
+        "artistName": "Zhao Yuan",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Farewell by a Stream on a Clear Day",
+        "date": 1350,
+        "url": "https://www.metmuseum.org/art/collection/search/45647",
+        "season": "Spring"
+    },
+    {
+        "objectID": "458967",
+        "colorValue": [
+            "#6e5b46",
+            "#cb9b74",
+            "#918e89",
+            "#1a1512",
+            "#afac9f"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/rl/original/DP319194.jpg",
+        "artistName": "Osservanza Master",
+        "department": "Robert Lehman Collection",
+        "culture": "",
+        "title": "Saint Anthony the Abbot in the Wilderness",
+        "date": 1432,
+        "url": "https://www.metmuseum.org/art/collection/search/458967",
+        "season": "Spring"
+    },
+    {
+        "objectID": "49017",
+        "colorValue": [
+            "#cfbba4",
+            "#3e362c",
+            "#887665",
+            "#a54041",
+            "#6f5f48"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161053.jpg",
+        "artistName": "Yun Xiang",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes after old masters",
+        "date": 1638,
+        "url": "https://www.metmuseum.org/art/collection/search/49017",
+        "season": "Spring"
+    },
+    {
+        "objectID": "49173",
+        "colorValue": [
+            "#d8c8b7",
+            "#5d5855",
+            "#94867d",
+            "#c55354",
+            "#97745c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP143725_CRD.jpg",
+        "artistName": "Shitao (Zhu Ruoji)",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Returning Home",
+        "date": 1685,
+        "url": "https://www.metmuseum.org/art/collection/search/49173",
+        "season": "Spring"
+    },
+    {
+        "objectID": "49178",
+        "colorValue": [
+            "#2f2e2c",
+            "#d5cdb6",
+            "#a19789",
+            "#b9b5a6",
+            "#acacac"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13954-002.jpg",
+        "artistName": "Shitao (Zhu Ruoji)",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Drunk in Autumn Woods",
+        "date": 1692,
+        "url": "https://www.metmuseum.org/art/collection/search/49178",
+        "season": "Spring"
+    },
+    {
+        "objectID": "49019",
+        "colorValue": [
+            "#7c6a49",
+            "#36362c",
+            "#eaebd8",
+            "#bca579",
+            "#bcb49c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/1989_363_114_O.jpg",
+        "artistName": "Lan Ying",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Hermit-Fisherman on a Spring River",
+        "date": 1632,
+        "url": "https://www.metmuseum.org/art/collection/search/49019",
+        "season": "Spring"
+    },
+    {
+        "objectID": "53012",
+        "colorValue": [
+            "#bd9d72",
+            "#57402b",
+            "#5e664d",
+            "#f3e2c6",
+            "#f4dcac"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/2015_300_44_Burke_website.jpg",
+        "artistName": "Ishiyama Moroka",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Eight Views from The Tale of Genji (Genji monogatari hakkei)",
+        "date": 1600,
+        "url": "https://www.metmuseum.org/art/collection/search/53012",
+        "season": "Spring"
+    },
+    {
+        "objectID": "45815",
+        "colorValue": [
+            "#b9a07e",
+            "#483827",
+            "#875e39",
+            "#7c674c",
+            "#7f462a"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT5558.jpg",
+        "artistName": "Lu Zhi",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Planting Chrysanthemums",
+        "date": 1534,
+        "url": "https://www.metmuseum.org/art/collection/search/45815",
+        "season": "Spring"
+    },
+    {
+        "objectID": "53586",
+        "colorValue": [
+            "#776248",
+            "#e7d4b3",
+            "#3f5152",
+            "#6c8384",
+            "#b8a484"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP202117_CRD.jpg",
+        "artistName": "Unidentified Artist",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Spring Morning at the Palace of the Han Emperors",
+        "date": 1600,
+        "url": "https://www.metmuseum.org/art/collection/search/53586",
+        "season": "Spring"
+    },
+    {
+        "objectID": "49177",
+        "colorValue": [
+            "#a3988f",
+            "#3f3a37",
+            "#e4dacc",
+            "#605142",
+            "#5a403f"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP204906_CRD.jpg",
+        "artistName": "Shitao (Zhu Ruoji)",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Outing to Zhang Gong's Grotto",
+        "date": 1690,
+        "url": "https://www.metmuseum.org/art/collection/search/49177",
+        "season": "Spring"
+    },
+    {
+        "objectID": "49021",
+        "colorValue": [
+            "#c8b29a",
+            "#443930",
+            "#7e6d5d",
+            "#685043",
+            "#715c44"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161009.jpg",
+        "artistName": "Lan Ying",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes after Song and Yuan masters",
+        "date": 1642,
+        "url": "https://www.metmuseum.org/art/collection/search/49021",
+        "season": "Spring"
+    },
+    {
+        "objectID": "65628",
+        "colorValue": [
+            "#111212",
+            "#dcc4ac",
+            "#a0856e",
+            "#745748",
+            "#816651"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13189-002_crd.jpg",
+        "artistName": "Various Artists",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Album of Painting and Calligraphy for Maoshu",
+        "date": 1666,
+        "url": "https://www.metmuseum.org/art/collection/search/65628",
+        "season": "Spring"
+    },
+    {
+        "objectID": "54476",
+        "colorValue": [
+            "#afafaf",
+            "#363636",
+            "#6b6b6b",
+            "#5c5c5c",
+            "#545454"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/4086.jpg",
+        "artistName": "Kawabata Gyokushō",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Spring Landscape",
+        "date": 1900,
+        "url": "https://www.metmuseum.org/art/collection/search/54476",
+        "season": "Spring"
+    },
+    {
+        "objectID": "49113",
+        "colorValue": [
+            "#bbaa9b",
+            "#4d433d",
+            "#776a60",
+            "#605750",
+            "#625444"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161065.jpg",
+        "artistName": "Wang Jian",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes in the styles of old masters",
+        "date": 1668,
+        "url": "https://www.metmuseum.org/art/collection/search/49113",
+        "season": "Spring"
+    },
+    {
+        "objectID": "64872",
+        "colorValue": [
+            "#cbae87",
+            "#201f1c",
+            "#7f7766",
+            "#856737",
+            "#784a33"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP359324_crd.jpg",
+        "artistName": "Genki (Komai Ki)",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Scenes of the Four Seasons in Kyoto",
+        "date": 1778,
+        "url": "https://www.metmuseum.org/art/collection/search/64872",
+        "season": "Spring"
+    },
+    {
+        "objectID": "61825",
+        "colorValue": [
+            "#d1bfaa",
+            "#564941",
+            "#827366",
+            "#635c52",
+            "#6f5d4b"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP160452.jpg",
+        "artistName": "Mei Qing",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes after Ancient Masters",
+        "date": 1693,
+        "url": "https://www.metmuseum.org/art/collection/search/61825",
+        "season": "Spring"
+    },
+    {
+        "objectID": "73650",
+        "colorValue": [
+            "#b6ad93",
+            "#986d36",
+            "#e0e2dd",
+            "#596253",
+            "#59524d"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/S_L_4_2007_1_1_sec02.jpg",
+        "artistName": "Zhang Hong",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Peach Blossom Spring",
+        "date": 1638,
+        "url": "https://www.metmuseum.org/art/collection/search/73650",
+        "season": "Spring"
+    },
+    {
+        "objectID": "72262",
+        "colorValue": [
+            "#a17f5d",
+            "#e8dace",
+            "#4a3b2f",
+            "#634331",
+            "#cfbaac"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP160989.jpg",
+        "artistName": "Sheng Maoye",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes after Tang Poems",
+        "date": 1634,
+        "url": "https://www.metmuseum.org/art/collection/search/72262",
+        "season": "Spring"
+    },
+    {
+        "objectID": "73646",
+        "colorValue": [
+            "#755b41",
+            "#e5cfb6",
+            "#bbac96",
+            "#2e221a",
+            "#baa394"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP145870_crd.jpg",
+        "artistName": "Gao Cen",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes in the styles of old masters",
+        "date": 1667,
+        "url": "https://www.metmuseum.org/art/collection/search/73646",
+        "season": "Spring"
+    },
+    {
         "objectID": "14202",
         "colorValue": [
-            120,
-            118,
-            90
+            "#78765a",
+            "#c0b79c",
+            "#abab9e",
+            "#b2b4a1",
+            "#191f15"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DP161238.jpg",
         "artistName": "John Henry Twachtman",
@@ -2288,43 +2574,13 @@
         "season": "Winter"
     },
     {
-        "objectID": "40021",
-        "colorValue": [
-            187,
-            173,
-            143
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP154139.jpg",
-        "artistName": "Wang Hui",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Snow Clearing: Landscape after Li Cheng",
-        "date": 1669,
-        "url": "https://www.metmuseum.org/art/collection/search/40021",
-        "season": "Winter"
-    },
-    {
-        "objectID": "435737",
-        "colorValue": [
-            69,
-            55,
-            33
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-409-001.jpg",
-        "artistName": "François Boucher",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Imaginary Landscape with the Palatine Hill from Campo Vaccino",
-        "date": 1734,
-        "url": "https://www.metmuseum.org/art/collection/search/435737",
-        "season": "Winter"
-    },
-    {
         "objectID": "435907",
         "colorValue": [
-            42,
-            36,
-            24
+            "#2a2418",
+            "#5c737a",
+            "#6d5c43",
+            "#977652",
+            "#7b755e"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-013.jpg",
         "artistName": "Claude Lorrain (Claude Gellée)",
@@ -2336,27 +2592,49 @@
         "season": "Winter"
     },
     {
-        "objectID": "436205",
+        "objectID": "435737",
         "colorValue": [
-            59,
-            75,
-            66
+            "#453721",
+            "#bcac80",
+            "#a3a682",
+            "#90815f",
+            "#9e9896"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT10296.jpg",
-        "artistName": "Domenichino (Domenico Zampieri)",
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-409-001.jpg",
+        "artistName": "François Boucher",
         "department": "European Paintings",
         "culture": "",
-        "title": "Landscape with Moses and the Burning Bush",
-        "date": 1610,
-        "url": "https://www.metmuseum.org/art/collection/search/436205",
+        "title": "Imaginary Landscape with the Palatine Hill from Campo Vaccino",
+        "date": 1734,
+        "url": "https://www.metmuseum.org/art/collection/search/435737",
+        "season": "Winter"
+    },
+    {
+        "objectID": "40021",
+        "colorValue": [
+            "#bbad8f",
+            "#10100f",
+            "#746a5a",
+            "#5f5643",
+            "#5c4c3a"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP154139.jpg",
+        "artistName": "Wang Hui",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Snow Clearing: Landscape after Li Cheng",
+        "date": 1669,
+        "url": "https://www.metmuseum.org/art/collection/search/40021",
         "season": "Winter"
     },
     {
         "objectID": "436826",
         "colorValue": [
-            124,
-            122,
-            103
+            "#7c7a67",
+            "#cdc8b1",
+            "#1d190f",
+            "#b4b8ad",
+            "#bbc4af"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143197.jpg",
         "artistName": "Barend Cornelis Koekkoek",
@@ -2370,9 +2648,11 @@
     {
         "objectID": "436652",
         "colorValue": [
-            44,
-            39,
-            29
+            "#2c271d",
+            "#9f9a82",
+            "#8a9082",
+            "#777158",
+            "#838376"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146444.jpg",
         "artistName": "Meyndert Hobbema",
@@ -2384,11 +2664,31 @@
         "season": "Winter"
     },
     {
+        "objectID": "436205",
+        "colorValue": [
+            "#3b4b42",
+            "#7694a4",
+            "#beaa7f",
+            "#888668",
+            "#99b0ae"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT10296.jpg",
+        "artistName": "Domenichino (Domenico Zampieri)",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Landscape with Moses and the Burning Bush",
+        "date": 1610,
+        "url": "https://www.metmuseum.org/art/collection/search/436205",
+        "season": "Winter"
+    },
+    {
         "objectID": "437097",
         "colorValue": [
-            125,
-            111,
-            79
+            "#7d6f4f",
+            "#d3b888",
+            "#080705",
+            "#b9bca3",
+            "#aab2ac"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP124093.jpg",
         "artistName": "Jean-François Millet",
@@ -2400,43 +2700,13 @@
         "season": "Winter"
     },
     {
-        "objectID": "437520",
-        "colorValue": [
-            73,
-            45,
-            31
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT229696.jpg",
-        "artistName": "Théodore Rousseau",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Sunset near Arbonne",
-        "date": 1860,
-        "url": "https://www.metmuseum.org/art/collection/search/437520",
-        "season": "Winter"
-    },
-    {
-        "objectID": "437094",
-        "colorValue": [
-            100,
-            90,
-            62
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1982.jpg",
-        "artistName": "Jean-François Millet",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Autumn Landscape with a Flock of Turkeys",
-        "date": 1872,
-        "url": "https://www.metmuseum.org/art/collection/search/437094",
-        "season": "Winter"
-    },
-    {
         "objectID": "437269",
         "colorValue": [
-            177,
-            145,
-            112
+            "#b19170",
+            "#34271c",
+            "#bfb9b0",
+            "#683c22",
+            "#efcd9c"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/ep87.24.R.jpg",
         "artistName": "Léon-Germain Pelouse",
@@ -2448,59 +2718,49 @@
         "season": "Winter"
     },
     {
-        "objectID": "438641",
+        "objectID": "437094",
         "colorValue": [
-            123,
-            112,
-            84
+            "#645a3e",
+            "#c9c2a3",
+            "#17150d",
+            "#aaad9a",
+            "#9b9d96"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169451.jpg",
-        "artistName": "Simon Denis",
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1982.jpg",
+        "artistName": "Jean-François Millet",
         "department": "European Paintings",
         "culture": "",
-        "title": "Mountainous Landscape at Tivoli",
-        "date": 1786,
-        "url": "https://www.metmuseum.org/art/collection/search/438641",
+        "title": "Autumn Landscape with a Flock of Turkeys",
+        "date": 1872,
+        "url": "https://www.metmuseum.org/art/collection/search/437094",
         "season": "Winter"
     },
     {
-        "objectID": "438821",
+        "objectID": "437520",
         "colorValue": [
-            113,
-            113,
-            92
+            "#492d1f",
+            "#85502b",
+            "#b0733e",
+            "#967d68",
+            "#947474"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1025.jpg",
-        "artistName": "Paul Gauguin",
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT229696.jpg",
+        "artistName": "Théodore Rousseau",
         "department": "European Paintings",
         "culture": "",
-        "title": "Ia Orana Maria (Hail Mary)",
-        "date": 1891,
-        "url": "https://www.metmuseum.org/art/collection/search/438821",
-        "season": "Winter"
-    },
-    {
-        "objectID": "45738",
-        "colorValue": [
-            140,
-            140,
-            140
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/14_76_16.jpg",
-        "artistName": "Kano Tansui",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "View of Mt. Horai",
-        "date": 1800,
-        "url": "https://www.metmuseum.org/art/collection/search/45738",
+        "title": "Sunset near Arbonne",
+        "date": 1860,
+        "url": "https://www.metmuseum.org/art/collection/search/437520",
         "season": "Winter"
     },
     {
         "objectID": "45680",
         "colorValue": [
-            154,
-            140,
-            125
+            "#9a8c7d",
+            "#403832",
+            "#ded0c0",
+            "#57433e",
+            "#564c3c"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP204373_CRD.jpg",
         "artistName": "Jiang Song",
@@ -2512,43 +2772,67 @@
         "season": "Winter"
     },
     {
-        "objectID": "44527",
+        "objectID": "45738",
         "colorValue": [
-            193,
-            179,
-            159
+            "#8c8c8c",
+            "#222222",
+            "#dbdbdb",
+            "#444444",
+            "#4c4c4c"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP120312.jpg",
-        "artistName": "Qian Weicheng",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/14_76_16.jpg",
+        "artistName": "Kano Tansui",
         "department": "Asian Art",
-        "culture": "China",
-        "title": "Winter Landscapes and Flowers",
-        "date": 1720,
-        "url": "https://www.metmuseum.org/art/collection/search/44527",
+        "culture": "Japan",
+        "title": "View of Mt. Horai",
+        "date": 1800,
+        "url": "https://www.metmuseum.org/art/collection/search/45738",
         "season": "Winter"
     },
     {
-        "objectID": "53012",
+        "objectID": "438821",
         "colorValue": [
-            189,
-            157,
-            114
+            "#71715c",
+            "#caa670",
+            "#1d362d",
+            "#a0a8b0",
+            "#afbea9"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/2015_300_44_Burke_website.jpg",
-        "artistName": "Ishiyama Moroka",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Eight Views from The Tale of Genji (Genji monogatari hakkei)",
-        "date": 1600,
-        "url": "https://www.metmuseum.org/art/collection/search/53012",
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1025.jpg",
+        "artistName": "Paul Gauguin",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Ia Orana Maria (Hail Mary)",
+        "date": 1891,
+        "url": "https://www.metmuseum.org/art/collection/search/438821",
+        "season": "Winter"
+    },
+    {
+        "objectID": "438641",
+        "colorValue": [
+            "#7b7054",
+            "#d7c2ab",
+            "#28291d",
+            "#bcb4a4",
+            "#b0a89c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169451.jpg",
+        "artistName": "Simon Denis",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Mountainous Landscape at Tivoli",
+        "date": 1786,
+        "url": "https://www.metmuseum.org/art/collection/search/438641",
         "season": "Winter"
     },
     {
         "objectID": "48991",
         "colorValue": [
-            173,
-            150,
-            95
+            "#ad965f",
+            "#402b0a",
+            "#e5d4b2",
+            "#ecd699",
+            "#544c1b"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/64_55_2.JPG",
         "artistName": "Ike Taiga",
@@ -2560,27 +2844,49 @@
         "season": "Winter"
     },
     {
-        "objectID": "53463",
+        "objectID": "53012",
         "colorValue": [
-            145,
-            138,
-            126
+            "#bd9d72",
+            "#57402b",
+            "#5e664d",
+            "#f3e2c6",
+            "#f4dcac"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-233.jpg",
-        "artistName": "Yamamoto Baiitsu",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/2015_300_44_Burke_website.jpg",
+        "artistName": "Ishiyama Moroka",
         "department": "Asian Art",
         "culture": "Japan",
-        "title": "Landscapes of the Four Seasons",
-        "date": 1700,
-        "url": "https://www.metmuseum.org/art/collection/search/53463",
+        "title": "Eight Views from The Tale of Genji (Genji monogatari hakkei)",
+        "date": 1600,
+        "url": "https://www.metmuseum.org/art/collection/search/53012",
+        "season": "Winter"
+    },
+    {
+        "objectID": "44527",
+        "colorValue": [
+            "#c1b39f",
+            "#4a423a",
+            "#f4eee6",
+            "#65544a",
+            "#665c4b"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP120312.jpg",
+        "artistName": "Qian Weicheng",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Winter Landscapes and Flowers",
+        "date": 1720,
+        "url": "https://www.metmuseum.org/art/collection/search/44527",
         "season": "Winter"
     },
     {
         "objectID": "49158",
         "colorValue": [
-            209,
-            202,
-            189
+            "#d1cabd",
+            "#928a80",
+            "#564e47",
+            "#847362",
+            "#745f57"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP153654_CRD.jpg",
         "artistName": "Wu Li",
@@ -2592,11 +2898,31 @@
         "season": "Winter"
     },
     {
+        "objectID": "53463",
+        "colorValue": [
+            "#918a7e",
+            "#0b0c0d",
+            "#e2c59c",
+            "#4b3f37",
+            "#5f4f3a"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-233.jpg",
+        "artistName": "Yamamoto Baiitsu",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Landscapes of the Four Seasons",
+        "date": 1700,
+        "url": "https://www.metmuseum.org/art/collection/search/53463",
+        "season": "Winter"
+    },
+    {
         "objectID": "54037",
         "colorValue": [
-            187,
-            161,
-            131
+            "#bba183",
+            "#12110d",
+            "#8b4616",
+            "#7a8574",
+            "#7c7c84"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP142281.jpg",
         "artistName": "Katsushika Isai",
@@ -2608,27 +2934,13 @@
         "season": "Winter"
     },
     {
-        "objectID": "49113",
-        "colorValue": [
-            187,
-            170,
-            155
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161065.jpg",
-        "artistName": "Wang Jian",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes in the styles of old masters",
-        "date": 1668,
-        "url": "https://www.metmuseum.org/art/collection/search/49113",
-        "season": "Winter"
-    },
-    {
         "objectID": "65628",
         "colorValue": [
-            17,
-            18,
-            18
+            "#111212",
+            "#dcc4ac",
+            "#a0856e",
+            "#745748",
+            "#816651"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13189-002_crd.jpg",
         "artistName": "Various Artists",
@@ -2640,11 +2952,31 @@
         "season": "Winter"
     },
     {
+        "objectID": "49113",
+        "colorValue": [
+            "#bbaa9b",
+            "#4d433d",
+            "#776a60",
+            "#605750",
+            "#625444"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161065.jpg",
+        "artistName": "Wang Jian",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes in the styles of old masters",
+        "date": 1668,
+        "url": "https://www.metmuseum.org/art/collection/search/49113",
+        "season": "Winter"
+    },
+    {
         "objectID": "670943",
         "colorValue": [
-            168,
-            139,
-            104
+            "#a88b68",
+            "#443e34",
+            "#845b32",
+            "#e0c19c",
+            "#833629"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-15661-002.jpg",
         "artistName": "Nukina Kaioku",

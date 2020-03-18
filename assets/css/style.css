@@ -2,6 +2,10 @@ body {
     margin: 0;
 }
 
+html {
+    background-color: #FFFAF0;
+}
+
 .banner {
     width: 100%;
     position: absolute;
@@ -23,7 +27,7 @@ h2 {
 
 .topic-wrapper {
     text-align: center;
-    background: white;
+    background: #FFFAF0;
     background-size: 30px 100%, 100% 100%;
     width: 60vw;
     height: 10vh;
@@ -41,7 +45,7 @@ h2 {
 
 .content-wrapper {
     text-align: center;
-    background: white;
+    background: #FFFAF0;
     background-size: 30px 100%, 100% 100%;
     padding-top: 4vh;
     width: 100%;
@@ -108,7 +112,7 @@ p {
 .active,
 .btn:hover {
     background-color: #666;
-    color: white;
+    color: #FFFAF0;
 }
 
 .btn-group .btn:not(:last-child) {
@@ -144,6 +148,20 @@ p {
     font-size: 10px;
 }
 
+.tooltip {
+    position: absolute;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font: 12px sans-serif;
+    background: white;
+    border: 0px;
+    pointer-events: none;
+    font-family: 'Lora', serif;
+  }
+
 
 @media (min-width: 1024px) {
     .topic-wrapper {
@@ -159,6 +177,7 @@ p {
     #bubble {
         padding-left: 8vw;
         padding-right: 8vw;
+
     }
 
     .btn-group {

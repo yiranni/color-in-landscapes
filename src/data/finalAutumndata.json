@@ -2,9 +2,11 @@
     {
         "objectID": "10501",
         "colorValue": [
-            46,
-            36,
-            14
+            "#2e240e",
+            "#b8aaa3",
+            "#999aae",
+            "#908784",
+            "#a4641c"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2639.jpg",
         "artistName": "Thomas Cole",
@@ -18,9 +20,11 @@
     {
         "objectID": "10578",
         "colorValue": [
-            98,
-            70,
-            34
+            "#624622",
+            "#e3cbb4",
+            "#95753c",
+            "#7a6432",
+            "#a8846b"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/ap61.262.jpg",
         "artistName": "Jasper Francis Cropsey",
@@ -32,11 +36,31 @@
         "season": "Autumn"
     },
     {
+        "objectID": "10777",
+        "colorValue": [
+            "#393023",
+            "#c7cbc9",
+            "#816c51",
+            "#9ba4b3",
+            "#8b8c9c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT10421.jpg",
+        "artistName": "Robert S. Duncanson",
+        "department": "The American Wing",
+        "culture": "American",
+        "title": "Landscape with Shepherd",
+        "date": 1852,
+        "url": "https://www.metmuseum.org/art/collection/search/10777",
+        "season": "Autumn"
+    },
+    {
         "objectID": "11227",
         "colorValue": [
-            44,
-            36,
-            25
+            "#2c2419",
+            "#ced7cb",
+            "#93aaa8",
+            "#758698",
+            "#85682b"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/ap87.8.8.jpg",
         "artistName": "George Inness",
@@ -50,9 +74,11 @@
     {
         "objectID": "39668",
         "colorValue": [
-            133,
-            108,
-            83
+            "#856c53",
+            "#d4b078",
+            "#c5916a",
+            "#4f4941",
+            "#964039"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP167812_CRD.jpg",
         "artistName": "Guo Xi",
@@ -64,27 +90,13 @@
         "season": "Autumn"
     },
     {
-        "objectID": "41479",
-        "colorValue": [
-            171,
-            157,
-            141
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP216493_94.jpg",
-        "artistName": "Dong Qichang",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Invitation to Reclusion at Jingxi",
-        "date": 1611,
-        "url": "https://www.metmuseum.org/art/collection/search/41479",
-        "season": "Autumn"
-    },
-    {
         "objectID": "36436",
         "colorValue": [
-            210,
-            200,
-            185
+            "#d2c8b9",
+            "#938a7d",
+            "#605b53",
+            "#87645a",
+            "#827464"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP162771.jpg",
         "artistName": "Zhang Feng",
@@ -96,11 +108,31 @@
         "season": "Autumn"
     },
     {
+        "objectID": "41479",
+        "colorValue": [
+            "#ab9d8d",
+            "#393028",
+            "#675c51",
+            "#55433b",
+            "#564c3b"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP216493_94.jpg",
+        "artistName": "Dong Qichang",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Invitation to Reclusion at Jingxi",
+        "date": 1611,
+        "url": "https://www.metmuseum.org/art/collection/search/41479",
+        "season": "Autumn"
+    },
+    {
         "objectID": "39536",
         "colorValue": [
-            190,
-            172,
-            156
+            "#beac9c",
+            "#252321",
+            "#efe3d5",
+            "#645444",
+            "#644c44"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP274197.jpg",
         "artistName": "Wen Zhengming",
@@ -112,43 +144,13 @@
         "season": "Autumn"
     },
     {
-        "objectID": "41471",
-        "colorValue": [
-            113,
-            86,
-            58
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP328710.jpg",
-        "artistName": "Lü Ji",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Autumn Landscape with Herons and Ducks",
-        "date": 1467,
-        "url": "https://www.metmuseum.org/art/collection/search/41471",
-        "season": "Autumn"
-    },
-    {
-        "objectID": "435966",
-        "colorValue": [
-            98,
-            93,
-            85
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP332566.jpg",
-        "artistName": "Camille Corot",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Boatman among the Reeds",
-        "date": 1860,
-        "url": "https://www.metmuseum.org/art/collection/search/435966",
-        "season": "Autumn"
-    },
-    {
         "objectID": "39931",
         "colorValue": [
-            208,
-            190,
-            175
+            "#d0beaf",
+            "#5f534b",
+            "#8d7e73",
+            "#974e43",
+            "#7c6454"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP160517.jpg",
         "artistName": "Dai Benxiao",
@@ -160,43 +162,31 @@
         "season": "Autumn"
     },
     {
-        "objectID": "436455",
+        "objectID": "435966",
         "colorValue": [
-            54,
-            37,
-            27
+            "#625d55",
+            "#ab9c8c",
+            "#1a1713",
+            "#929394",
+            "#9b9c92"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2138.jpg",
-        "artistName": "Théodore Gericault",
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP332566.jpg",
+        "artistName": "Camille Corot",
         "department": "European Paintings",
         "culture": "",
-        "title": "Evening: Landscape with an Aqueduct",
-        "date": 1818,
-        "url": "https://www.metmuseum.org/art/collection/search/436455",
-        "season": "Autumn"
-    },
-    {
-        "objectID": "10777",
-        "colorValue": [
-            57,
-            48,
-            35
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT10421.jpg",
-        "artistName": "Robert S. Duncanson",
-        "department": "The American Wing",
-        "culture": "American",
-        "title": "Landscape with Shepherd",
-        "date": 1852,
-        "url": "https://www.metmuseum.org/art/collection/search/10777",
+        "title": "Boatman among the Reeds",
+        "date": 1860,
+        "url": "https://www.metmuseum.org/art/collection/search/435966",
         "season": "Autumn"
     },
     {
         "objectID": "437094",
         "colorValue": [
-            100,
-            90,
-            62
+            "#645a3e",
+            "#c9c2a3",
+            "#17150d",
+            "#aaad9a",
+            "#9b9d96"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1982.jpg",
         "artistName": "Jean-François Millet",
@@ -208,11 +198,31 @@
         "season": "Autumn"
     },
     {
+        "objectID": "436455",
+        "colorValue": [
+            "#36251b",
+            "#ddbe8e",
+            "#806747",
+            "#949789",
+            "#818a8c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2138.jpg",
+        "artistName": "Théodore Gericault",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Evening: Landscape with an Aqueduct",
+        "date": 1818,
+        "url": "https://www.metmuseum.org/art/collection/search/436455",
+        "season": "Autumn"
+    },
+    {
         "objectID": "437097",
         "colorValue": [
-            125,
-            111,
-            79
+            "#7d6f4f",
+            "#d3b888",
+            "#080705",
+            "#b9bca3",
+            "#aab2ac"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP124093.jpg",
         "artistName": "Jean-François Millet",
@@ -224,43 +234,49 @@
         "season": "Autumn"
     },
     {
-        "objectID": "45673",
+        "objectID": "41471",
         "colorValue": [
-            116,
-            90,
-            64
+            "#71563a",
+            "#0c0906",
+            "#bb9976",
+            "#c7ab89",
+            "#a89b8c"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205315_CRD.jpg",
-        "artistName": "Unidentified Artist",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP328710.jpg",
+        "artistName": "Lü Ji",
         "department": "Asian Art",
         "culture": "China",
-        "title": "The Four Seasons",
-        "date": 1400,
-        "url": "https://www.metmuseum.org/art/collection/search/45673",
+        "title": "Autumn Landscape with Herons and Ducks",
+        "date": 1467,
+        "url": "https://www.metmuseum.org/art/collection/search/41471",
         "season": "Autumn"
     },
     {
-        "objectID": "44601",
+        "objectID": "45201",
         "colorValue": [
-            171,
-            157,
-            145
+            "#6e5437",
+            "#c4976f",
+            "#d2b790",
+            "#170705",
+            "#b4a08c"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205358_CRD.jpg",
-        "artistName": "Wen Zhengming",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP221036.jpg",
+        "artistName": "",
         "department": "Asian Art",
-        "culture": "China",
-        "title": "The Cassia Grove Studio",
-        "date": 1522,
-        "url": "https://www.metmuseum.org/art/collection/search/44601",
+        "culture": "Japan",
+        "title": "Descent and Return of Amida to Western Paradise with a Believer's Soul (Gōshō mandara)",
+        "date": 1290,
+        "url": "https://www.metmuseum.org/art/collection/search/45201",
         "season": "Autumn"
     },
     {
         "objectID": "45352",
         "colorValue": [
-            180,
-            153,
-            121
+            "#b49979",
+            "#9a5f3b",
+            "#dfd4b2",
+            "#51402d",
+            "#535546"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP221130.jpg",
         "artistName": "Yosa Buson",
@@ -272,11 +288,31 @@
         "season": "Autumn"
     },
     {
+        "objectID": "45673",
+        "colorValue": [
+            "#745a40",
+            "#b69a78",
+            "#3f3226",
+            "#a48c6a",
+            "#9d816c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205315_CRD.jpg",
+        "artistName": "Unidentified Artist",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "The Four Seasons",
+        "date": 1400,
+        "url": "https://www.metmuseum.org/art/collection/search/45673",
+        "season": "Autumn"
+    },
+    {
         "objectID": "437433",
         "colorValue": [
-            126,
-            107,
-            76
+            "#7e6b4c",
+            "#1a1a14",
+            "#ceb18a",
+            "#a59da8",
+            "#b9bca4"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT215205.jpg",
         "artistName": "Auguste Renoir",
@@ -290,9 +326,11 @@
     {
         "objectID": "45752",
         "colorValue": [
-            174,
-            157,
-            139
+            "#ae9d8b",
+            "#473e36",
+            "#6e635a",
+            "#a03939",
+            "#644d38"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205388_CRD.jpg",
         "artistName": "Tang Yin",
@@ -304,43 +342,31 @@
         "season": "Autumn"
     },
     {
-        "objectID": "45201",
+        "objectID": "44601",
         "colorValue": [
-            110,
-            84,
-            55
+            "#ab9d91",
+            "#4b403b",
+            "#e0dacf",
+            "#5a554d",
+            "#645444"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP221036.jpg",
-        "artistName": "",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205358_CRD.jpg",
+        "artistName": "Wen Zhengming",
         "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Descent and Return of Amida to Western Paradise with a Believer's Soul (Gōshō mandara)",
-        "date": 1290,
-        "url": "https://www.metmuseum.org/art/collection/search/45201",
-        "season": "Autumn"
-    },
-    {
-        "objectID": "49072",
-        "colorValue": [
-            209,
-            193,
-            164
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP277624.jpg",
-        "artistName": "Hidaka Tetsuo",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Autumn Landscape",
-        "date": 1862,
-        "url": "https://www.metmuseum.org/art/collection/search/49072",
+        "culture": "China",
+        "title": "The Cassia Grove Studio",
+        "date": 1522,
+        "url": "https://www.metmuseum.org/art/collection/search/44601",
         "season": "Autumn"
     },
     {
         "objectID": "48994",
         "colorValue": [
-            199,
-            173,
-            138
+            "#c7ad8a",
+            "#373021",
+            "#814d33",
+            "#7f7058",
+            "#896138"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP277565.jpg",
         "artistName": "Ike (Tokuyama) Gyokuran",
@@ -352,11 +378,31 @@
         "season": "Autumn"
     },
     {
+        "objectID": "49072",
+        "colorValue": [
+            "#d1c1a4",
+            "#0f0f11",
+            "#5b6664",
+            "#6c7b7e",
+            "#818c89"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP277624.jpg",
+        "artistName": "Hidaka Tetsuo",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Autumn Landscape",
+        "date": 1862,
+        "url": "https://www.metmuseum.org/art/collection/search/49072",
+        "season": "Autumn"
+    },
+    {
         "objectID": "49113",
         "colorValue": [
-            187,
-            170,
-            155
+            "#bbaa9b",
+            "#4d433d",
+            "#776a60",
+            "#605750",
+            "#625444"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161065.jpg",
         "artistName": "Wang Jian",
@@ -370,9 +416,11 @@
     {
         "objectID": "45681",
         "colorValue": [
-            160,
-            129,
-            95
+            "#a0815f",
+            "#f1ddc9",
+            "#584532",
+            "#5b5444",
+            "#e7c7a8"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP153554.jpg",
         "artistName": "Unidentified Artist",
@@ -384,27 +432,13 @@
         "season": "Autumn"
     },
     {
-        "objectID": "49134",
-        "colorValue": [
-            173,
-            155,
-            136
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205858_CRD.jpg",
-        "artistName": "Liu Yu",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Traveling Amid Streams and Mountains",
-        "date": 1680,
-        "url": "https://www.metmuseum.org/art/collection/search/49134",
-        "season": "Autumn"
-    },
-    {
         "objectID": "49153",
         "colorValue": [
-            170,
-            151,
-            129
+            "#aa9781",
+            "#4a3e31",
+            "#eee3cd",
+            "#67543b",
+            "#664b36"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP160345.jpg",
         "artistName": "Unidentified Artist",
@@ -416,59 +450,31 @@
         "season": "Autumn"
     },
     {
-        "objectID": "49173",
+        "objectID": "49134",
         "colorValue": [
-            216,
-            200,
-            183
+            "#ad9b88",
+            "#3b322d",
+            "#695c52",
+            "#54433c",
+            "#584c3b"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP143725_CRD.jpg",
-        "artistName": "Shitao (Zhu Ruoji)",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205858_CRD.jpg",
+        "artistName": "Liu Yu",
         "department": "Asian Art",
         "culture": "China",
-        "title": "Returning Home",
-        "date": 1685,
-        "url": "https://www.metmuseum.org/art/collection/search/49173",
-        "season": "Autumn"
-    },
-    {
-        "objectID": "49178",
-        "colorValue": [
-            47,
-            46,
-            44
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13954-002.jpg",
-        "artistName": "Shitao (Zhu Ruoji)",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Drunk in Autumn Woods",
-        "date": 1692,
-        "url": "https://www.metmuseum.org/art/collection/search/49178",
-        "season": "Autumn"
-    },
-    {
-        "objectID": "51417",
-        "colorValue": [
-            89,
-            67,
-            46
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP216518_CRD.jpg",
-        "artistName": "",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Autumn Landscape",
-        "date": 1368,
-        "url": "https://www.metmuseum.org/art/collection/search/51417",
+        "title": "Traveling Amid Streams and Mountains",
+        "date": 1680,
+        "url": "https://www.metmuseum.org/art/collection/search/49134",
         "season": "Autumn"
     },
     {
         "objectID": "49157",
         "colorValue": [
-            192,
-            181,
-            167
+            "#c0b5a7",
+            "#423b38",
+            "#766f69",
+            "#5d524e",
+            "#645c4b"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP204417_CRD.jpg",
         "artistName": "Wang Hui",
@@ -480,27 +486,49 @@
         "season": "Autumn"
     },
     {
-        "objectID": "51769",
+        "objectID": "51417",
         "colorValue": [
-            203,
-            189,
-            174
+            "#59432e",
+            "#baac9b",
+            "#a19285",
+            "#a39c88",
+            "#211812"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP203110_CRD.jpg",
-        "artistName": "Luo Mu",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP216518_CRD.jpg",
+        "artistName": "",
         "department": "Asian Art",
         "culture": "China",
-        "title": "River Landscape in Autumn",
-        "date": 1661,
-        "url": "https://www.metmuseum.org/art/collection/search/51769",
+        "title": "Autumn Landscape",
+        "date": 1368,
+        "url": "https://www.metmuseum.org/art/collection/search/51417",
+        "season": "Autumn"
+    },
+    {
+        "objectID": "49178",
+        "colorValue": [
+            "#2f2e2c",
+            "#d5cdb6",
+            "#a19789",
+            "#b9b5a6",
+            "#acacac"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13954-002.jpg",
+        "artistName": "Shitao (Zhu Ruoji)",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Drunk in Autumn Woods",
+        "date": 1692,
+        "url": "https://www.metmuseum.org/art/collection/search/49178",
         "season": "Autumn"
     },
     {
         "objectID": "65628",
         "colorValue": [
-            17,
-            18,
-            18
+            "#111212",
+            "#dcc4ac",
+            "#a0856e",
+            "#745748",
+            "#816651"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13189-002_crd.jpg",
         "artistName": "Various Artists",
@@ -512,11 +540,31 @@
         "season": "Autumn"
     },
     {
+        "objectID": "49173",
+        "colorValue": [
+            "#d8c8b7",
+            "#5d5855",
+            "#94867d",
+            "#c55354",
+            "#97745c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP143725_CRD.jpg",
+        "artistName": "Shitao (Zhu Ruoji)",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Returning Home",
+        "date": 1685,
+        "url": "https://www.metmuseum.org/art/collection/search/49173",
+        "season": "Autumn"
+    },
+    {
         "objectID": "679188",
         "colorValue": [
-            132,
-            113,
-            79
+            "#84714f",
+            "#192a2e",
+            "#bcbab6",
+            "#4f2e0e",
+            "#b9b4a2"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/LC-2015_224b_2015_sr1-001.jpg",
         "artistName": "Unidentified Artist",
@@ -528,11 +576,31 @@
         "season": "Autumn"
     },
     {
+        "objectID": "51769",
+        "colorValue": [
+            "#cbbdae",
+            "#57473c",
+            "#81766f",
+            "#635d55",
+            "#816144"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP203110_CRD.jpg",
+        "artistName": "Luo Mu",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "River Landscape in Autumn",
+        "date": 1661,
+        "url": "https://www.metmuseum.org/art/collection/search/51769",
+        "season": "Autumn"
+    },
+    {
         "objectID": "670943",
         "colorValue": [
-            168,
-            139,
-            104
+            "#a88b68",
+            "#443e34",
+            "#845b32",
+            "#e0c19c",
+            "#833629"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-15661-002.jpg",
         "artistName": "Nukina Kaioku",
@@ -546,9 +614,11 @@
     {
         "objectID": "701452",
         "colorValue": [
-            106,
-            98,
-            79
+            "#6a624f",
+            "#221f1a",
+            "#b19e6e",
+            "#392f22",
+            "#9e9e8e"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/LC-2015_788_sr1_03.jpg",
         "artistName": "Wang Jian",

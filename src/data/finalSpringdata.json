@@ -1,42 +1,12 @@
 [
     {
-        "objectID": "36026",
-        "colorValue": [
-            126,
-            95,
-            44
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/13_220_118_O.jpg",
-        "artistName": "Wang Wenzhi",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Spring Ablutions at the Orchid Pavilion",
-        "date": 1644,
-        "url": "https://www.metmuseum.org/art/collection/search/36026",
-        "season": "Spring"
-    },
-    {
-        "objectID": "11234",
-        "colorValue": [
-            108,
-            114,
-            99
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT98.jpg",
-        "artistName": "George Inness",
-        "department": "The American Wing",
-        "culture": "American",
-        "title": "Spring Blossoms, Montclair, New Jersey",
-        "date": 1888,
-        "url": "https://www.metmuseum.org/art/collection/search/11234",
-        "season": "Spring"
-    },
-    {
         "objectID": "10481",
         "colorValue": [
-            82,
-            64,
-            27
+            "#52401b",
+            "#cdc4b5",
+            "#a8b6c0",
+            "#9b9ca0",
+            "#9a7e47"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT78.jpg",
         "artistName": "Frederic Edwin Church",
@@ -48,11 +18,49 @@
         "season": "Spring"
     },
     {
+        "objectID": "11234",
+        "colorValue": [
+            "#6c7263",
+            "#212c16",
+            "#cbc1a5",
+            "#97a6b4",
+            "#b2bcb7"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ad/original/DT98.jpg",
+        "artistName": "George Inness",
+        "department": "The American Wing",
+        "culture": "American",
+        "title": "Spring Blossoms, Montclair, New Jersey",
+        "date": 1888,
+        "url": "https://www.metmuseum.org/art/collection/search/11234",
+        "season": "Spring"
+    },
+    {
+        "objectID": "36026",
+        "colorValue": [
+            "#7e5f2c",
+            "#332209",
+            "#bf9e65",
+            "#cfb88e",
+            "#b0a092"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/13_220_118_O.jpg",
+        "artistName": "Wang Wenzhi",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Spring Ablutions at the Orchid Pavilion",
+        "date": 1644,
+        "url": "https://www.metmuseum.org/art/collection/search/36026",
+        "season": "Spring"
+    },
+    {
         "objectID": "36131",
         "colorValue": [
-            194,
-            172,
-            147
+            "#c2ac93",
+            "#392a20",
+            "#724d3f",
+            "#ebe2df",
+            "#7e5d41"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/1981_4_1a.jpg",
         "artistName": "Gong Xian",
@@ -64,27 +72,13 @@
         "season": "Spring"
     },
     {
-        "objectID": "40091",
-        "colorValue": [
-            159,
-            131,
-            98
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP153518.jpg",
-        "artistName": "Unidentified Artist",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Early spring landscape",
-        "date": 1234,
-        "url": "https://www.metmuseum.org/art/collection/search/40091",
-        "season": "Spring"
-    },
-    {
         "objectID": "36188",
         "colorValue": [
-            224,
-            208,
-            192
+            "#e0d0c0",
+            "#61554f",
+            "#988675",
+            "#81705a",
+            "#736c65"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP162538.jpg",
         "artistName": "Wu Shixian",
@@ -96,27 +90,13 @@
         "season": "Spring"
     },
     {
-        "objectID": "36436",
-        "colorValue": [
-            210,
-            200,
-            185
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP162771.jpg",
-        "artistName": "Zhang Feng",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes",
-        "date": 1644,
-        "url": "https://www.metmuseum.org/art/collection/search/36436",
-        "season": "Spring"
-    },
-    {
         "objectID": "41479",
         "colorValue": [
-            171,
-            157,
-            141
+            "#ab9d8d",
+            "#393028",
+            "#675c51",
+            "#55433b",
+            "#564c3b"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP216493_94.jpg",
         "artistName": "Dong Qichang",
@@ -128,43 +108,31 @@
         "season": "Spring"
     },
     {
-        "objectID": "42347",
+        "objectID": "40091",
         "colorValue": [
-            158,
-            134,
-            101
+            "#9f8362",
+            "#f3e1c2",
+            "#483b30",
+            "#575045",
+            "#e6cda3"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT8176.jpg",
-        "artistName": "",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP153518.jpg",
+        "artistName": "Unidentified Artist",
         "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Eight Views of the Xiao and Xiang Rivers",
-        "date": 1500,
-        "url": "https://www.metmuseum.org/art/collection/search/42347",
-        "season": "Spring"
-    },
-    {
-        "objectID": "42346",
-        "colorValue": [
-            144,
-            122,
-            99
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT8029.jpg",
-        "artistName": "Kenkō Shōkei",
-        "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Landscape with Pavilion",
-        "date": 1478,
-        "url": "https://www.metmuseum.org/art/collection/search/42346",
+        "culture": "China",
+        "title": "Early spring landscape",
+        "date": 1234,
+        "url": "https://www.metmuseum.org/art/collection/search/40091",
         "season": "Spring"
     },
     {
         "objectID": "435573",
         "colorValue": [
-            54,
-            50,
-            36
+            "#363224",
+            "#c5ae88",
+            "#7c6b46",
+            "#989e8d",
+            "#838d88"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8028.jpg",
         "artistName": "Jacopo Amigoni",
@@ -176,11 +144,31 @@
         "season": "Spring"
     },
     {
+        "objectID": "42347",
+        "colorValue": [
+            "#9e8665",
+            "#130f0e",
+            "#4e3a23",
+            "#e7dac0",
+            "#f1d2a0"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT8176.jpg",
+        "artistName": "",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Eight Views of the Xiao and Xiang Rivers",
+        "date": 1500,
+        "url": "https://www.metmuseum.org/art/collection/search/42347",
+        "season": "Spring"
+    },
+    {
         "objectID": "435809",
         "colorValue": [
-            152,
-            116,
-            69
+            "#987445",
+            "#281e11",
+            "#d8c8b3",
+            "#cab9a7",
+            "#5b2d0f"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP119115.jpg",
         "artistName": "Pieter Bruegel the Elder",
@@ -192,11 +180,31 @@
         "season": "Spring"
     },
     {
+        "objectID": "36436",
+        "colorValue": [
+            "#d2c8b9",
+            "#938a7d",
+            "#605b53",
+            "#87645a",
+            "#827464"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP162771.jpg",
+        "artistName": "Zhang Feng",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes",
+        "date": 1644,
+        "url": "https://www.metmuseum.org/art/collection/search/36436",
+        "season": "Spring"
+    },
+    {
         "objectID": "436085",
         "colorValue": [
-            38,
-            40,
-            22
+            "#262816",
+            "#9cb199",
+            "#c0c49f",
+            "#827d55",
+            "#7e9b8f"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2145.jpg",
         "artistName": "Charles-François Daubigny",
@@ -208,27 +216,13 @@
         "season": "Spring"
     },
     {
-        "objectID": "437307",
-        "colorValue": [
-            133,
-            134,
-            76
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1866.jpg",
-        "artistName": "Camille Pissarro",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Poplars, Éragny",
-        "date": 1895,
-        "url": "https://www.metmuseum.org/art/collection/search/437307",
-        "season": "Spring"
-    },
-    {
         "objectID": "437097",
         "colorValue": [
-            125,
-            111,
-            79
+            "#7d6f4f",
+            "#d3b888",
+            "#080705",
+            "#b9bca3",
+            "#aab2ac"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DP124093.jpg",
         "artistName": "Jean-François Millet",
@@ -240,11 +234,67 @@
         "season": "Spring"
     },
     {
+        "objectID": "42346",
+        "colorValue": [
+            "#907a63",
+            "#39302a",
+            "#54392c",
+            "#5f452b",
+            "#d5b696"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT8029.jpg",
+        "artistName": "Kenkō Shōkei",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Landscape with Pavilion",
+        "date": 1478,
+        "url": "https://www.metmuseum.org/art/collection/search/42346",
+        "season": "Spring"
+    },
+    {
+        "objectID": "437307",
+        "colorValue": [
+            "#85864c",
+            "#d4d1cb",
+            "#232f13",
+            "#d9c684",
+            "#4c3d1d"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1866.jpg",
+        "artistName": "Camille Pissarro",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Poplars, Éragny",
+        "date": 1895,
+        "url": "https://www.metmuseum.org/art/collection/search/437307",
+        "season": "Spring"
+    },
+    {
+        "objectID": "438820",
+        "colorValue": [
+            "#60491f",
+            "#7e8a81",
+            "#c6944e",
+            "#150c05",
+            "#9fa58c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1967.jpg",
+        "artistName": "Gustave Courbet",
+        "department": "European Paintings",
+        "culture": "",
+        "title": "Young Ladies of the Village",
+        "date": 1851,
+        "url": "https://www.metmuseum.org/art/collection/search/438820",
+        "season": "Spring"
+    },
+    {
         "objectID": "437316",
         "colorValue": [
-            67,
-            67,
-            44
+            "#43432c",
+            "#bdaf95",
+            "#958161",
+            "#a49f97",
+            "#aab692"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1043.jpg",
         "artistName": "Camille Pissarro",
@@ -258,9 +308,11 @@
     {
         "objectID": "437685",
         "colorValue": [
-            77,
-            83,
-            76
+            "#4d534c",
+            "#d0cdc0",
+            "#969fb3",
+            "#abbbc3",
+            "#998e7c"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1871.jpg",
         "artistName": "Alfred Sisley",
@@ -272,59 +324,13 @@
         "season": "Spring"
     },
     {
-        "objectID": "438820",
-        "colorValue": [
-            96,
-            73,
-            31
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1967.jpg",
-        "artistName": "Gustave Courbet",
-        "department": "European Paintings",
-        "culture": "",
-        "title": "Young Ladies of the Village",
-        "date": 1851,
-        "url": "https://www.metmuseum.org/art/collection/search/438820",
-        "season": "Spring"
-    },
-    {
-        "objectID": "45673",
-        "colorValue": [
-            116,
-            90,
-            64
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205315_CRD.jpg",
-        "artistName": "Unidentified Artist",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "The Four Seasons",
-        "date": 1400,
-        "url": "https://www.metmuseum.org/art/collection/search/45673",
-        "season": "Spring"
-    },
-    {
-        "objectID": "45647",
-        "colorValue": [
-            179,
-            165,
-            143
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP235481.jpg",
-        "artistName": "Zhao Yuan",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Farewell by a Stream on a Clear Day",
-        "date": 1350,
-        "url": "https://www.metmuseum.org/art/collection/search/45647",
-        "season": "Spring"
-    },
-    {
         "objectID": "438821",
         "colorValue": [
-            113,
-            113,
-            92
+            "#71715c",
+            "#caa670",
+            "#1d362d",
+            "#a0a8b0",
+            "#afbea9"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1025.jpg",
         "artistName": "Paul Gauguin",
@@ -336,11 +342,31 @@
         "season": "Spring"
     },
     {
+        "objectID": "45673",
+        "colorValue": [
+            "#745a40",
+            "#b69a78",
+            "#3f3226",
+            "#a48c6a",
+            "#9d816c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP205315_CRD.jpg",
+        "artistName": "Unidentified Artist",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "The Four Seasons",
+        "date": 1400,
+        "url": "https://www.metmuseum.org/art/collection/search/45673",
+        "season": "Spring"
+    },
+    {
         "objectID": "45738",
         "colorValue": [
-            140,
-            140,
-            140
+            "#8c8c8c",
+            "#222222",
+            "#dbdbdb",
+            "#444444",
+            "#4c4c4c"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/14_76_16.jpg",
         "artistName": "Kano Tansui",
@@ -352,11 +378,31 @@
         "season": "Spring"
     },
     {
+        "objectID": "45647",
+        "colorValue": [
+            "#b3a58f",
+            "#3b362d",
+            "#e2d7ba",
+            "#5f5443",
+            "#5c4b42"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP235481.jpg",
+        "artistName": "Zhao Yuan",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Farewell by a Stream on a Clear Day",
+        "date": 1350,
+        "url": "https://www.metmuseum.org/art/collection/search/45647",
+        "season": "Spring"
+    },
+    {
         "objectID": "458967",
         "colorValue": [
-            110,
-            91,
-            70
+            "#6e5b46",
+            "#cb9b74",
+            "#918e89",
+            "#1a1512",
+            "#afac9f"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/rl/original/DP319194.jpg",
         "artistName": "Osservanza Master",
@@ -368,43 +414,13 @@
         "season": "Spring"
     },
     {
-        "objectID": "49019",
-        "colorValue": [
-            124,
-            106,
-            73
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/1989_363_114_O.jpg",
-        "artistName": "Lan Ying",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Hermit-Fisherman on a Spring River",
-        "date": 1632,
-        "url": "https://www.metmuseum.org/art/collection/search/49019",
-        "season": "Spring"
-    },
-    {
-        "objectID": "45815",
-        "colorValue": [
-            185,
-            160,
-            126
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT5558.jpg",
-        "artistName": "Lu Zhi",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Planting Chrysanthemums",
-        "date": 1534,
-        "url": "https://www.metmuseum.org/art/collection/search/45815",
-        "season": "Spring"
-    },
-    {
         "objectID": "49017",
         "colorValue": [
-            207,
-            187,
-            164
+            "#cfbba4",
+            "#3e362c",
+            "#887665",
+            "#a54041",
+            "#6f5f48"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161053.jpg",
         "artistName": "Yun Xiang",
@@ -416,43 +432,13 @@
         "season": "Spring"
     },
     {
-        "objectID": "49113",
-        "colorValue": [
-            187,
-            170,
-            155
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161065.jpg",
-        "artistName": "Wang Jian",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes in the styles of old masters",
-        "date": 1668,
-        "url": "https://www.metmuseum.org/art/collection/search/49113",
-        "season": "Spring"
-    },
-    {
-        "objectID": "49021",
-        "colorValue": [
-            200,
-            178,
-            154
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161009.jpg",
-        "artistName": "Lan Ying",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Landscapes after Song and Yuan masters",
-        "date": 1642,
-        "url": "https://www.metmuseum.org/art/collection/search/49021",
-        "season": "Spring"
-    },
-    {
         "objectID": "49173",
         "colorValue": [
-            216,
-            200,
-            183
+            "#d8c8b7",
+            "#5d5855",
+            "#94867d",
+            "#c55354",
+            "#97745c"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP143725_CRD.jpg",
         "artistName": "Shitao (Zhu Ruoji)",
@@ -464,43 +450,13 @@
         "season": "Spring"
     },
     {
-        "objectID": "49177",
-        "colorValue": [
-            163,
-            152,
-            143
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP204906_CRD.jpg",
-        "artistName": "Shitao (Zhu Ruoji)",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Outing to Zhang Gong's Grotto",
-        "date": 1690,
-        "url": "https://www.metmuseum.org/art/collection/search/49177",
-        "season": "Spring"
-    },
-    {
-        "objectID": "53586",
-        "colorValue": [
-            119,
-            98,
-            72
-        ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP202117_CRD.jpg",
-        "artistName": "Unidentified Artist",
-        "department": "Asian Art",
-        "culture": "China",
-        "title": "Spring Morning at the Palace of the Han Emperors",
-        "date": 1600,
-        "url": "https://www.metmuseum.org/art/collection/search/53586",
-        "season": "Spring"
-    },
-    {
         "objectID": "49178",
         "colorValue": [
-            47,
-            46,
-            44
+            "#2f2e2c",
+            "#d5cdb6",
+            "#a19789",
+            "#b9b5a6",
+            "#acacac"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13954-002.jpg",
         "artistName": "Shitao (Zhu Ruoji)",
@@ -512,11 +468,31 @@
         "season": "Spring"
     },
     {
+        "objectID": "49019",
+        "colorValue": [
+            "#7c6a49",
+            "#36362c",
+            "#eaebd8",
+            "#bca579",
+            "#bcb49c"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/1989_363_114_O.jpg",
+        "artistName": "Lan Ying",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Hermit-Fisherman on a Spring River",
+        "date": 1632,
+        "url": "https://www.metmuseum.org/art/collection/search/49019",
+        "season": "Spring"
+    },
+    {
         "objectID": "53012",
         "colorValue": [
-            189,
-            157,
-            114
+            "#bd9d72",
+            "#57402b",
+            "#5e664d",
+            "#f3e2c6",
+            "#f4dcac"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/2015_300_44_Burke_website.jpg",
         "artistName": "Ishiyama Moroka",
@@ -528,43 +504,85 @@
         "season": "Spring"
     },
     {
-        "objectID": "54476",
+        "objectID": "45815",
         "colorValue": [
-            175,
-            175,
-            175
+            "#b9a07e",
+            "#483827",
+            "#875e39",
+            "#7c674c",
+            "#7f462a"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/4086.jpg",
-        "artistName": "Kawabata Gyokushō",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DT5558.jpg",
+        "artistName": "Lu Zhi",
         "department": "Asian Art",
-        "culture": "Japan",
-        "title": "Spring Landscape",
-        "date": 1900,
-        "url": "https://www.metmuseum.org/art/collection/search/54476",
+        "culture": "China",
+        "title": "Planting Chrysanthemums",
+        "date": 1534,
+        "url": "https://www.metmuseum.org/art/collection/search/45815",
         "season": "Spring"
     },
     {
-        "objectID": "61825",
+        "objectID": "53586",
         "colorValue": [
-            209,
-            191,
-            170
+            "#776248",
+            "#e7d4b3",
+            "#3f5152",
+            "#6c8384",
+            "#b8a484"
         ],
-        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP160452.jpg",
-        "artistName": "Mei Qing",
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP202117_CRD.jpg",
+        "artistName": "Unidentified Artist",
         "department": "Asian Art",
         "culture": "China",
-        "title": "Landscapes after Ancient Masters",
-        "date": 1693,
-        "url": "https://www.metmuseum.org/art/collection/search/61825",
+        "title": "Spring Morning at the Palace of the Han Emperors",
+        "date": 1600,
+        "url": "https://www.metmuseum.org/art/collection/search/53586",
+        "season": "Spring"
+    },
+    {
+        "objectID": "49177",
+        "colorValue": [
+            "#a3988f",
+            "#3f3a37",
+            "#e4dacc",
+            "#605142",
+            "#5a403f"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP204906_CRD.jpg",
+        "artistName": "Shitao (Zhu Ruoji)",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Outing to Zhang Gong's Grotto",
+        "date": 1690,
+        "url": "https://www.metmuseum.org/art/collection/search/49177",
+        "season": "Spring"
+    },
+    {
+        "objectID": "49021",
+        "colorValue": [
+            "#c8b29a",
+            "#443930",
+            "#7e6d5d",
+            "#685043",
+            "#715c44"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161009.jpg",
+        "artistName": "Lan Ying",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes after Song and Yuan masters",
+        "date": 1642,
+        "url": "https://www.metmuseum.org/art/collection/search/49021",
         "season": "Spring"
     },
     {
         "objectID": "65628",
         "colorValue": [
-            17,
-            18,
-            18
+            "#111212",
+            "#dcc4ac",
+            "#a0856e",
+            "#745748",
+            "#816651"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP-13189-002_crd.jpg",
         "artistName": "Various Artists",
@@ -576,11 +594,49 @@
         "season": "Spring"
     },
     {
+        "objectID": "54476",
+        "colorValue": [
+            "#afafaf",
+            "#363636",
+            "#6b6b6b",
+            "#5c5c5c",
+            "#545454"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/4086.jpg",
+        "artistName": "Kawabata Gyokushō",
+        "department": "Asian Art",
+        "culture": "Japan",
+        "title": "Spring Landscape",
+        "date": 1900,
+        "url": "https://www.metmuseum.org/art/collection/search/54476",
+        "season": "Spring"
+    },
+    {
+        "objectID": "49113",
+        "colorValue": [
+            "#bbaa9b",
+            "#4d433d",
+            "#776a60",
+            "#605750",
+            "#625444"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP161065.jpg",
+        "artistName": "Wang Jian",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes in the styles of old masters",
+        "date": 1668,
+        "url": "https://www.metmuseum.org/art/collection/search/49113",
+        "season": "Spring"
+    },
+    {
         "objectID": "64872",
         "colorValue": [
-            203,
-            174,
-            135
+            "#cbae87",
+            "#201f1c",
+            "#7f7766",
+            "#856737",
+            "#784a33"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP359324_crd.jpg",
         "artistName": "Genki (Komai Ki)",
@@ -592,11 +648,31 @@
         "season": "Spring"
     },
     {
+        "objectID": "61825",
+        "colorValue": [
+            "#d1bfaa",
+            "#564941",
+            "#827366",
+            "#635c52",
+            "#6f5d4b"
+        ],
+        "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP160452.jpg",
+        "artistName": "Mei Qing",
+        "department": "Asian Art",
+        "culture": "China",
+        "title": "Landscapes after Ancient Masters",
+        "date": 1693,
+        "url": "https://www.metmuseum.org/art/collection/search/61825",
+        "season": "Spring"
+    },
+    {
         "objectID": "73650",
         "colorValue": [
-            182,
-            173,
-            147
+            "#b6ad93",
+            "#986d36",
+            "#e0e2dd",
+            "#596253",
+            "#59524d"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/S_L_4_2007_1_1_sec02.jpg",
         "artistName": "Zhang Hong",
@@ -610,9 +686,11 @@
     {
         "objectID": "72262",
         "colorValue": [
-            161,
-            127,
-            93
+            "#a17f5d",
+            "#e8dace",
+            "#4a3b2f",
+            "#634331",
+            "#cfbaac"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP160989.jpg",
         "artistName": "Sheng Maoye",
@@ -626,9 +704,11 @@
     {
         "objectID": "73646",
         "colorValue": [
-            117,
-            91,
-            65
+            "#755b41",
+            "#e5cfb6",
+            "#bbac96",
+            "#2e221a",
+            "#baa394"
         ],
         "objectImage": "https://images.metmuseum.org/CRDImages/as/original/DP145870_crd.jpg",
         "artistName": "Gao Cen",
